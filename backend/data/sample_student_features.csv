@@ -1,0 +1,1201 @@
+student_id,previous_quiz_score,recent_quiz_avg,practice_completion_rate,quiz_attempts_count,study_time_hours,performance_trend,support_category_code,support_category_label
+STU_1000,73.9,80.5,0.54,6,23.8,0.44,1,Developing understanding
+STU_1001,62.5,65.2,0.61,6,26.9,0.38,1,Developing understanding
+STU_1002,76.7,90.9,0.83,2,17.3,0.4,2,Ready for advanced practice
+STU_1003,92.4,100.0,0.87,6,32.5,0.81,2,Ready for advanced practice
+STU_1004,60.8,66.8,0.65,4,21.7,0.2,1,Developing understanding
+STU_1005,60.8,76.4,0.67,5,21.6,0.48,1,Developing understanding
+STU_1006,93.4,95.4,0.77,3,23.0,0.31,2,Ready for advanced practice
+STU_1007,78.8,83.8,0.63,6,23.3,0.35,1,Developing understanding
+STU_1008,56.5,67.0,0.55,9,31.6,0.23,1,Developing understanding
+STU_1009,74.8,82.8,0.65,5,19.0,0.24,1,Developing understanding
+STU_1010,56.7,60.2,0.62,10,33.1,0.24,1,Developing understanding
+STU_1011,56.6,74.7,0.63,4,23.2,0.53,1,Developing understanding
+STU_1012,69.4,74.9,0.59,4,16.1,0.03,1,Developing understanding
+STU_1013,30.6,22.8,0.2,1,5.4,-0.35,0,Needs foundational revision
+STU_1014,34.0,42.5,0.39,5,22.2,0.49,0,Needs foundational revision
+STU_1015,54.9,60.2,0.43,5,21.0,0.28,1,Developing understanding
+STU_1016,46.8,40.1,0.52,2,22.2,-0.31,0,Needs foundational revision
+STU_1017,70.7,74.1,0.62,4,27.9,0.17,1,Developing understanding
+STU_1018,48.7,46.7,0.49,5,20.8,-0.23,0,Needs foundational revision
+STU_1019,39.6,28.4,0.24,8,29.5,-0.2,0,Needs foundational revision
+STU_1020,91.4,82.1,0.87,5,30.2,-0.13,2,Ready for advanced practice
+STU_1021,60.9,65.0,0.54,4,19.7,0.14,1,Developing understanding
+STU_1022,66.2,63.3,0.63,2,13.0,-0.04,1,Developing understanding
+STU_1023,39.4,36.2,0.26,6,23.1,-0.03,0,Needs foundational revision
+STU_1024,55.2,46.7,0.57,8,31.4,-0.06,1,Developing understanding
+STU_1025,67.0,76.0,0.72,5,24.8,0.36,1,Developing understanding
+STU_1026,44.3,42.1,0.32,5,22.6,-0.08,0,Needs foundational revision
+STU_1027,71.8,84.9,0.53,2,14.1,0.42,1,Developing understanding
+STU_1028,54.2,63.2,0.35,9,28.2,0.35,1,Developing understanding
+STU_1029,59.7,69.0,0.59,5,24.9,0.39,1,Developing understanding
+STU_1030,54.2,60.6,0.52,2,17.5,0.07,1,Developing understanding
+STU_1031,98.3,100.0,0.91,2,17.4,0.84,2,Ready for advanced practice
+STU_1032,64.8,62.9,0.51,3,21.4,-0.16,1,Developing understanding
+STU_1033,46.0,32.8,0.39,5,16.8,-0.26,0,Needs foundational revision
+STU_1034,79.8,83.6,0.75,1,14.8,0.29,2,Ready for advanced practice
+STU_1035,43.0,52.1,0.39,8,28.9,0.56,0,Needs foundational revision
+STU_1036,68.8,80.4,0.77,5,24.8,0.34,1,Developing understanding
+STU_1037,29.7,26.0,0.16,8,25.2,-0.14,0,Needs foundational revision
+STU_1038,41.1,38.0,0.43,7,33.3,-0.12,0,Needs foundational revision
+STU_1039,68.5,74.8,0.59,6,24.6,0.43,1,Developing understanding
+STU_1040,78.3,92.4,0.69,8,40.6,0.61,2,Ready for advanced practice
+STU_1041,68.1,78.0,0.68,7,32.0,0.52,1,Developing understanding
+STU_1042,62.9,69.8,0.63,9,35.3,0.21,1,Developing understanding
+STU_1043,59.6,60.4,0.69,5,27.2,0.19,1,Developing understanding
+STU_1044,38.4,35.8,0.24,3,22.9,-0.32,0,Needs foundational revision
+STU_1045,52.0,47.6,0.35,9,28.8,0.09,0,Needs foundational revision
+STU_1046,56.7,54.1,0.58,7,26.1,0.02,1,Developing understanding
+STU_1047,84.0,93.9,0.79,3,19.7,0.13,2,Ready for advanced practice
+STU_1048,71.2,73.4,0.58,6,27.0,0.16,1,Developing understanding
+STU_1049,33.3,21.5,0.18,5,14.4,-0.26,0,Needs foundational revision
+STU_1050,70.8,73.0,0.52,4,21.3,0.05,1,Developing understanding
+STU_1051,58.1,66.5,0.65,5,30.3,0.41,1,Developing understanding
+STU_1052,52.8,51.0,0.39,4,20.1,0.06,0,Needs foundational revision
+STU_1053,76.0,76.6,0.64,4,21.8,0.2,1,Developing understanding
+STU_1054,83.6,100.0,0.68,7,28.8,0.37,2,Ready for advanced practice
+STU_1055,81.8,84.1,0.7,4,26.1,0.14,2,Ready for advanced practice
+STU_1056,49.9,41.9,0.32,4,16.4,-0.01,0,Needs foundational revision
+STU_1057,59.4,71.6,0.55,4,27.1,0.25,1,Developing understanding
+STU_1058,71.0,71.5,0.52,6,32.0,-0.08,1,Developing understanding
+STU_1059,82.6,95.6,0.84,4,25.9,0.64,2,Ready for advanced practice
+STU_1060,56.4,50.7,0.43,5,22.7,-0.08,0,Needs foundational revision
+STU_1061,61.7,70.4,0.57,4,25.0,0.24,1,Developing understanding
+STU_1062,45.1,54.5,0.52,4,24.6,0.42,0,Needs foundational revision
+STU_1063,43.5,43.4,0.44,7,25.4,0.31,0,Needs foundational revision
+STU_1064,79.6,95.7,0.73,5,24.7,0.36,2,Ready for advanced practice
+STU_1065,89.4,96.1,0.76,8,30.2,0.34,2,Ready for advanced practice
+STU_1066,63.7,77.5,0.53,1,15.1,0.31,1,Developing understanding
+STU_1067,83.1,100.0,0.81,7,34.2,0.61,2,Ready for advanced practice
+STU_1068,71.5,73.8,0.8,4,20.5,0.25,1,Developing understanding
+STU_1069,53.4,58.0,0.53,5,22.5,0.02,0,Needs foundational revision
+STU_1070,71.5,65.0,0.67,4,19.0,-0.15,1,Developing understanding
+STU_1071,92.7,98.9,0.91,6,28.2,0.55,2,Ready for advanced practice
+STU_1072,64.4,67.7,0.57,4,23.5,0.2,1,Developing understanding
+STU_1073,93.2,100.0,0.71,3,18.9,0.53,2,Ready for advanced practice
+STU_1074,17.8,13.3,0.18,2,11.3,-0.11,0,Needs foundational revision
+STU_1075,79.8,96.3,0.86,5,23.0,0.71,2,Ready for advanced practice
+STU_1076,66.6,73.9,0.51,10,36.7,0.11,1,Developing understanding
+STU_1077,59.6,71.0,0.6,3,19.6,0.44,1,Developing understanding
+STU_1078,66.7,65.4,0.52,7,26.5,0.08,1,Developing understanding
+STU_1079,29.2,35.2,0.28,6,22.7,0.13,0,Needs foundational revision
+STU_1080,61.0,56.7,0.43,4,20.7,-0.21,1,Developing understanding
+STU_1081,71.4,68.6,0.63,4,20.2,0.29,1,Developing understanding
+STU_1082,91.6,94.7,0.91,3,19.0,0.06,2,Ready for advanced practice
+STU_1083,55.7,59.9,0.46,5,28.4,0.1,1,Developing understanding
+STU_1084,50.4,56.1,0.51,4,19.2,0.22,0,Needs foundational revision
+STU_1085,56.0,61.7,0.6,2,16.9,0.09,1,Developing understanding
+STU_1086,81.5,86.5,0.87,6,33.5,0.31,2,Ready for advanced practice
+STU_1087,70.9,83.6,0.57,5,34.9,0.45,1,Developing understanding
+STU_1088,55.5,52.7,0.47,8,27.0,0.14,0,Needs foundational revision
+STU_1089,74.2,79.1,0.57,5,25.7,0.13,1,Developing understanding
+STU_1090,66.7,85.2,0.75,8,31.9,0.42,1,Developing understanding
+STU_1091,82.4,99.7,0.88,5,26.4,0.85,2,Ready for advanced practice
+STU_1092,52.4,58.0,0.49,4,18.7,0.35,0,Needs foundational revision
+STU_1093,59.1,66.8,0.64,1,11.8,0.42,1,Developing understanding
+STU_1094,57.9,65.3,0.53,5,23.8,0.27,1,Developing understanding
+STU_1095,38.7,34.7,0.39,2,10.2,0.01,0,Needs foundational revision
+STU_1096,70.3,64.4,0.52,4,24.0,-0.31,1,Developing understanding
+STU_1097,69.7,77.8,0.71,4,23.7,0.19,1,Developing understanding
+STU_1098,65.1,67.7,0.48,3,19.5,0.02,1,Developing understanding
+STU_1099,60.8,51.7,0.65,6,26.4,-0.08,1,Developing understanding
+STU_1100,39.5,40.6,0.44,6,24.2,-0.11,0,Needs foundational revision
+STU_1101,57.4,57.6,0.58,6,27.9,-0.14,1,Developing understanding
+STU_1102,58.8,62.6,0.4,4,16.3,0.02,0,Needs foundational revision
+STU_1103,50.6,57.7,0.4,5,21.2,0.23,0,Needs foundational revision
+STU_1104,62.1,70.2,0.49,1,10.8,0.29,1,Developing understanding
+STU_1105,72.3,84.1,0.62,4,19.7,0.31,1,Developing understanding
+STU_1106,99.0,100.0,0.78,4,18.0,0.15,2,Ready for advanced practice
+STU_1107,68.1,66.4,0.75,9,40.5,0.08,1,Developing understanding
+STU_1108,69.6,72.0,0.65,5,23.2,-0.08,1,Developing understanding
+STU_1109,63.7,61.9,0.52,5,27.2,-0.06,1,Developing understanding
+STU_1110,30.5,24.4,0.25,5,23.7,-0.22,0,Needs foundational revision
+STU_1111,64.5,61.6,0.57,3,15.5,0.13,1,Developing understanding
+STU_1112,66.1,66.5,0.63,6,24.3,0.06,1,Developing understanding
+STU_1113,100.0,100.0,0.91,3,31.1,0.61,2,Ready for advanced practice
+STU_1114,61.5,67.8,0.69,6,33.5,0.32,1,Developing understanding
+STU_1115,70.4,72.6,0.64,4,22.6,0.26,1,Developing understanding
+STU_1116,64.4,77.4,0.73,5,27.1,0.59,1,Developing understanding
+STU_1117,44.0,41.0,0.51,7,26.7,-0.05,0,Needs foundational revision
+STU_1118,85.6,96.0,0.69,4,24.6,0.4,2,Ready for advanced practice
+STU_1119,78.5,85.2,0.84,10,38.0,0.52,2,Ready for advanced practice
+STU_1120,79.2,77.0,0.61,5,18.7,0.14,1,Developing understanding
+STU_1121,48.6,58.6,0.54,5,20.0,0.34,1,Developing understanding
+STU_1122,90.3,100.0,0.78,2,19.5,0.53,2,Ready for advanced practice
+STU_1123,39.8,43.4,0.47,8,27.3,-0.03,0,Needs foundational revision
+STU_1124,75.6,86.0,0.8,5,26.9,0.38,2,Ready for advanced practice
+STU_1125,100.0,100.0,1.0,5,26.3,0.63,2,Ready for advanced practice
+STU_1126,47.2,55.3,0.52,5,21.3,0.1,1,Developing understanding
+STU_1127,54.8,59.1,0.44,4,22.8,0.22,1,Developing understanding
+STU_1128,66.8,68.3,0.48,2,16.5,0.15,1,Developing understanding
+STU_1129,55.9,71.6,0.48,4,20.7,0.49,1,Developing understanding
+STU_1130,37.1,32.2,0.24,10,35.5,-0.28,0,Needs foundational revision
+STU_1131,66.2,71.7,0.66,3,21.9,0.25,1,Developing understanding
+STU_1132,45.9,50.0,0.37,8,33.8,-0.06,0,Needs foundational revision
+STU_1133,73.5,85.4,0.81,3,20.9,0.51,1,Developing understanding
+STU_1134,48.5,44.2,0.48,6,24.5,-0.17,0,Needs foundational revision
+STU_1135,92.9,100.0,0.94,1,14.9,0.52,2,Ready for advanced practice
+STU_1136,50.9,44.1,0.35,4,17.9,-0.12,0,Needs foundational revision
+STU_1137,59.2,65.6,0.65,10,40.7,0.24,1,Developing understanding
+STU_1138,79.6,91.1,0.85,7,36.6,0.24,2,Ready for advanced practice
+STU_1139,42.8,45.8,0.39,9,35.0,0.05,0,Needs foundational revision
+STU_1140,69.1,81.6,0.66,6,22.5,0.5,1,Developing understanding
+STU_1141,88.5,100.0,0.88,6,33.9,0.53,2,Ready for advanced practice
+STU_1142,36.1,38.0,0.23,6,17.2,0.02,0,Needs foundational revision
+STU_1143,68.3,85.9,0.62,3,22.7,0.58,1,Developing understanding
+STU_1144,69.7,81.5,0.6,10,36.1,0.38,1,Developing understanding
+STU_1145,79.1,82.1,0.61,6,29.5,0.17,1,Developing understanding
+STU_1146,42.7,45.0,0.35,2,10.2,0.04,0,Needs foundational revision
+STU_1147,41.2,39.3,0.25,5,24.0,-0.15,0,Needs foundational revision
+STU_1148,74.4,72.2,0.53,6,22.0,0.07,1,Developing understanding
+STU_1149,70.3,67.2,0.53,4,19.4,-0.15,1,Developing understanding
+STU_1150,69.5,75.3,0.77,6,26.3,0.58,1,Developing understanding
+STU_1151,71.2,77.4,0.66,4,17.7,0.17,1,Developing understanding
+STU_1152,52.8,62.9,0.62,5,25.2,0.3,1,Developing understanding
+STU_1153,69.2,73.8,0.61,4,27.7,0.06,1,Developing understanding
+STU_1154,70.3,76.7,0.58,2,25.0,0.32,1,Developing understanding
+STU_1155,52.1,53.4,0.48,6,26.0,0.0,1,Developing understanding
+STU_1156,98.6,100.0,0.88,4,28.9,0.47,2,Ready for advanced practice
+STU_1157,73.5,87.9,0.55,3,19.8,0.35,1,Developing understanding
+STU_1158,43.6,49.4,0.44,3,19.3,0.24,0,Needs foundational revision
+STU_1159,76.8,83.5,0.61,5,23.8,0.24,1,Developing understanding
+STU_1160,47.5,45.5,0.47,3,18.7,-0.26,0,Needs foundational revision
+STU_1161,79.2,94.4,0.76,5,28.3,0.85,2,Ready for advanced practice
+STU_1162,85.9,100.0,0.68,4,21.4,0.63,2,Ready for advanced practice
+STU_1163,50.2,58.4,0.33,3,16.2,0.11,0,Needs foundational revision
+STU_1164,82.3,93.3,0.83,4,24.8,0.28,2,Ready for advanced practice
+STU_1165,72.4,83.4,0.65,11,42.7,0.38,2,Ready for advanced practice
+STU_1166,79.8,76.5,0.59,5,21.4,0.11,1,Developing understanding
+STU_1167,99.1,100.0,1.0,6,31.8,0.85,2,Ready for advanced practice
+STU_1168,60.6,62.2,0.42,4,25.8,0.16,1,Developing understanding
+STU_1169,51.4,53.9,0.53,5,27.3,0.05,1,Developing understanding
+STU_1170,49.0,50.0,0.59,5,28.6,0.17,0,Needs foundational revision
+STU_1171,50.3,52.7,0.38,4,19.6,0.26,0,Needs foundational revision
+STU_1172,63.6,67.6,0.47,7,29.1,0.49,1,Developing understanding
+STU_1173,71.1,88.4,0.53,4,24.4,0.49,1,Developing understanding
+STU_1174,70.0,79.0,0.58,6,31.6,0.42,1,Developing understanding
+STU_1175,79.9,84.1,0.61,4,16.4,0.14,1,Developing understanding
+STU_1176,65.2,53.9,0.65,1,11.4,-0.45,0,Needs foundational revision
+STU_1177,91.2,98.1,0.7,7,34.8,0.45,2,Ready for advanced practice
+STU_1178,60.2,59.7,0.55,4,20.8,0.18,1,Developing understanding
+STU_1179,100.0,100.0,1.0,3,22.5,0.58,2,Ready for advanced practice
+STU_1180,76.3,83.7,0.79,6,25.7,0.41,1,Developing understanding
+STU_1181,49.6,48.6,0.49,7,26.7,-0.1,0,Needs foundational revision
+STU_1182,45.7,44.2,0.36,2,10.1,0.06,0,Needs foundational revision
+STU_1183,73.7,94.2,0.71,7,37.3,0.54,2,Ready for advanced practice
+STU_1184,61.0,72.9,0.56,3,19.2,0.31,1,Developing understanding
+STU_1185,77.9,93.0,0.69,3,20.6,0.47,2,Ready for advanced practice
+STU_1186,73.5,80.7,0.56,3,21.0,0.31,1,Developing understanding
+STU_1187,63.7,76.0,0.69,4,26.2,0.25,1,Developing understanding
+STU_1188,49.8,51.5,0.44,5,25.6,0.11,0,Needs foundational revision
+STU_1189,37.7,36.6,0.25,4,21.2,-0.04,0,Needs foundational revision
+STU_1190,57.0,60.9,0.48,4,18.8,0.13,1,Developing understanding
+STU_1191,80.4,95.2,0.71,2,17.6,0.48,2,Ready for advanced practice
+STU_1192,68.9,83.9,0.72,5,28.5,0.5,1,Developing understanding
+STU_1193,42.6,55.0,0.46,8,28.9,0.57,1,Developing understanding
+STU_1194,68.1,86.2,0.7,7,30.9,0.81,2,Ready for advanced practice
+STU_1195,71.9,80.0,0.51,7,29.8,0.22,1,Developing understanding
+STU_1196,49.1,35.8,0.42,6,27.4,-0.65,0,Needs foundational revision
+STU_1197,67.8,77.4,0.61,4,17.0,0.45,1,Developing understanding
+STU_1198,66.0,59.5,0.46,3,20.1,-0.01,1,Developing understanding
+STU_1199,44.4,40.1,0.33,6,23.3,-0.14,0,Needs foundational revision
+STU_1200,71.4,82.1,0.73,7,33.4,0.32,1,Developing understanding
+STU_1201,75.1,84.3,0.57,1,16.7,0.08,1,Developing understanding
+STU_1202,84.5,94.5,0.78,7,36.7,0.59,2,Ready for advanced practice
+STU_1203,84.0,82.6,0.68,4,27.2,0.01,1,Developing understanding
+STU_1204,40.2,31.7,0.22,5,24.2,-0.28,0,Needs foundational revision
+STU_1205,48.1,56.8,0.36,5,26.1,0.13,0,Needs foundational revision
+STU_1206,74.3,87.9,0.82,4,25.7,0.55,2,Ready for advanced practice
+STU_1207,74.2,86.1,0.77,11,41.8,0.62,2,Ready for advanced practice
+STU_1208,74.3,82.6,0.81,2,22.4,0.24,2,Ready for advanced practice
+STU_1209,100.0,100.0,0.91,6,33.1,0.35,2,Ready for advanced practice
+STU_1210,75.3,72.3,0.57,3,18.4,0.08,1,Developing understanding
+STU_1211,85.4,92.8,0.79,3,23.2,0.44,2,Ready for advanced practice
+STU_1212,82.2,100.0,0.73,4,23.7,0.64,2,Ready for advanced practice
+STU_1213,76.7,79.4,0.8,8,32.0,0.04,1,Developing understanding
+STU_1214,59.3,60.2,0.42,2,18.9,0.02,1,Developing understanding
+STU_1215,78.7,78.8,0.71,3,21.2,0.04,1,Developing understanding
+STU_1216,51.1,45.8,0.36,5,28.0,-0.26,0,Needs foundational revision
+STU_1217,60.7,70.6,0.5,7,23.6,0.35,1,Developing understanding
+STU_1218,56.3,64.4,0.58,2,15.3,0.28,1,Developing understanding
+STU_1219,66.5,75.2,0.6,5,24.8,0.33,1,Developing understanding
+STU_1220,100.0,100.0,0.87,7,36.4,0.72,2,Ready for advanced practice
+STU_1221,31.4,27.4,0.25,4,19.2,-0.16,0,Needs foundational revision
+STU_1222,77.4,80.0,0.69,6,29.2,0.26,2,Ready for advanced practice
+STU_1223,36.0,45.5,0.41,4,16.6,0.48,0,Needs foundational revision
+STU_1224,56.5,53.6,0.63,5,21.6,0.2,1,Developing understanding
+STU_1225,84.6,100.0,0.91,7,34.3,0.7,2,Ready for advanced practice
+STU_1226,66.2,76.2,0.69,3,16.7,0.26,1,Developing understanding
+STU_1227,45.6,33.2,0.36,4,17.7,-0.36,0,Needs foundational revision
+STU_1228,52.1,45.2,0.53,4,22.9,-0.23,0,Needs foundational revision
+STU_1229,77.2,79.3,0.68,5,22.8,0.18,1,Developing understanding
+STU_1230,51.9,67.9,0.4,10,39.6,0.39,1,Developing understanding
+STU_1231,68.9,77.5,0.73,7,34.9,0.57,1,Developing understanding
+STU_1232,65.8,73.9,0.46,7,23.3,0.31,1,Developing understanding
+STU_1233,53.3,54.1,0.6,6,24.5,0.05,0,Needs foundational revision
+STU_1234,100.0,100.0,0.9,2,13.9,0.73,2,Ready for advanced practice
+STU_1235,76.4,78.2,0.74,1,14.0,0.09,1,Developing understanding
+STU_1236,28.5,24.7,0.31,10,36.0,0.13,0,Needs foundational revision
+STU_1237,68.4,75.5,0.74,3,20.1,0.32,1,Developing understanding
+STU_1238,53.1,53.4,0.52,6,27.7,0.17,1,Developing understanding
+STU_1239,80.3,96.3,0.76,5,22.1,0.63,2,Ready for advanced practice
+STU_1240,50.7,52.7,0.33,3,18.9,-0.15,0,Needs foundational revision
+STU_1241,62.9,54.6,0.58,5,22.8,-0.06,1,Developing understanding
+STU_1242,74.1,74.8,0.57,1,14.4,0.15,1,Developing understanding
+STU_1243,80.6,86.5,0.8,4,24.4,0.33,2,Ready for advanced practice
+STU_1244,43.4,59.4,0.4,4,16.0,0.7,0,Needs foundational revision
+STU_1245,59.0,70.6,0.59,5,21.1,0.35,1,Developing understanding
+STU_1246,56.5,54.5,0.38,3,19.9,-0.05,0,Needs foundational revision
+STU_1247,53.2,49.4,0.36,2,15.5,-0.22,0,Needs foundational revision
+STU_1248,96.8,97.4,0.94,1,22.0,0.13,2,Ready for advanced practice
+STU_1249,72.3,72.0,0.53,3,19.8,-0.05,1,Developing understanding
+STU_1250,42.3,45.4,0.26,7,26.0,0.0,0,Needs foundational revision
+STU_1251,81.5,90.5,0.59,4,17.0,0.47,2,Ready for advanced practice
+STU_1252,100.0,100.0,1.0,5,28.7,0.82,2,Ready for advanced practice
+STU_1253,83.6,96.1,0.83,5,27.4,0.49,2,Ready for advanced practice
+STU_1254,37.7,39.8,0.3,3,21.9,-0.08,0,Needs foundational revision
+STU_1255,56.3,59.6,0.45,4,22.5,0.16,0,Needs foundational revision
+STU_1256,87.8,96.6,0.75,4,28.6,0.29,2,Ready for advanced practice
+STU_1257,52.3,66.2,0.56,5,26.0,0.56,1,Developing understanding
+STU_1258,73.0,79.9,0.71,5,23.9,0.29,1,Developing understanding
+STU_1259,78.9,85.0,0.62,2,17.8,0.2,1,Developing understanding
+STU_1260,48.3,40.3,0.34,6,24.8,-0.4,0,Needs foundational revision
+STU_1261,63.9,60.1,0.46,4,17.7,0.05,1,Developing understanding
+STU_1262,15.0,22.5,0.18,7,23.6,0.07,0,Needs foundational revision
+STU_1263,46.6,37.2,0.5,4,20.4,-0.08,0,Needs foundational revision
+STU_1264,60.5,59.9,0.48,9,38.1,0.09,1,Developing understanding
+STU_1265,42.5,43.3,0.24,5,14.2,0.05,0,Needs foundational revision
+STU_1266,94.4,100.0,0.73,9,39.9,0.16,2,Ready for advanced practice
+STU_1267,39.3,54.2,0.5,5,20.7,0.35,0,Needs foundational revision
+STU_1268,57.1,49.3,0.46,5,18.9,-0.01,0,Needs foundational revision
+STU_1269,67.4,72.6,0.69,6,31.9,0.29,1,Developing understanding
+STU_1270,90.9,89.5,0.86,6,32.6,0.28,2,Ready for advanced practice
+STU_1271,39.2,41.8,0.32,5,25.1,0.1,0,Needs foundational revision
+STU_1272,85.9,100.0,0.69,3,23.2,0.8,2,Ready for advanced practice
+STU_1273,65.2,79.5,0.48,4,26.9,0.32,1,Developing understanding
+STU_1274,47.3,47.3,0.46,6,27.3,-0.02,0,Needs foundational revision
+STU_1275,73.3,90.8,0.75,1,16.0,0.53,2,Ready for advanced practice
+STU_1276,68.6,76.3,0.67,3,21.5,0.21,1,Developing understanding
+STU_1277,54.2,63.9,0.5,5,27.3,0.46,1,Developing understanding
+STU_1278,66.3,67.4,0.46,5,20.7,0.27,1,Developing understanding
+STU_1279,58.1,51.3,0.67,4,21.1,-0.31,1,Developing understanding
+STU_1280,67.0,64.2,0.7,5,25.0,0.12,1,Developing understanding
+STU_1281,76.9,94.8,0.64,10,31.3,0.51,2,Ready for advanced practice
+STU_1282,93.5,100.0,0.99,1,19.8,0.56,2,Ready for advanced practice
+STU_1283,42.7,43.6,0.42,5,16.9,-0.16,0,Needs foundational revision
+STU_1284,100.0,100.0,0.93,1,18.9,0.35,2,Ready for advanced practice
+STU_1285,29.9,22.8,0.35,6,26.7,-0.33,0,Needs foundational revision
+STU_1286,62.3,69.9,0.66,5,24.0,0.27,1,Developing understanding
+STU_1287,75.6,96.4,0.73,5,31.3,0.84,2,Ready for advanced practice
+STU_1288,70.1,75.7,0.53,4,16.9,0.29,1,Developing understanding
+STU_1289,53.8,69.9,0.44,6,28.9,0.58,1,Developing understanding
+STU_1290,61.3,70.3,0.69,5,27.7,0.51,1,Developing understanding
+STU_1291,56.1,57.1,0.43,3,12.5,0.23,0,Needs foundational revision
+STU_1292,54.4,74.8,0.46,8,38.6,0.62,1,Developing understanding
+STU_1293,80.3,94.0,0.71,6,28.3,0.43,2,Ready for advanced practice
+STU_1294,71.4,76.3,0.63,3,17.4,0.18,1,Developing understanding
+STU_1295,52.5,69.5,0.51,9,29.4,0.41,1,Developing understanding
+STU_1296,81.2,98.1,0.87,2,19.8,0.72,2,Ready for advanced practice
+STU_1297,70.5,78.7,0.56,5,23.9,0.11,1,Developing understanding
+STU_1298,79.6,83.1,0.61,5,25.1,0.11,1,Developing understanding
+STU_1299,76.3,77.7,0.6,2,16.3,0.22,1,Developing understanding
+STU_1300,50.1,67.0,0.57,4,23.8,0.38,1,Developing understanding
+STU_1301,54.9,67.1,0.54,4,20.4,0.33,1,Developing understanding
+STU_1302,78.5,77.9,0.65,7,24.5,-0.0,1,Developing understanding
+STU_1303,76.0,98.6,0.79,5,26.5,0.79,2,Ready for advanced practice
+STU_1304,64.6,66.8,0.7,5,18.7,0.15,1,Developing understanding
+STU_1305,67.1,76.7,0.71,2,19.6,0.25,1,Developing understanding
+STU_1306,88.0,87.5,0.93,7,30.7,0.36,2,Ready for advanced practice
+STU_1307,54.4,65.6,0.42,4,20.5,0.61,1,Developing understanding
+STU_1308,74.8,89.8,0.76,4,28.0,0.44,1,Developing understanding
+STU_1309,61.4,60.1,0.55,4,18.7,-0.01,0,Needs foundational revision
+STU_1310,61.1,74.2,0.66,5,28.6,0.49,1,Developing understanding
+STU_1311,84.8,95.2,0.84,7,31.3,0.63,2,Ready for advanced practice
+STU_1312,79.9,99.1,0.81,8,40.0,0.48,2,Ready for advanced practice
+STU_1313,79.6,97.5,0.77,3,20.7,0.52,2,Ready for advanced practice
+STU_1314,88.5,91.2,0.71,4,21.0,0.14,2,Ready for advanced practice
+STU_1315,65.4,67.5,0.61,4,24.4,0.15,1,Developing understanding
+STU_1316,77.3,82.7,0.85,5,26.4,0.05,1,Developing understanding
+STU_1317,59.4,68.0,0.67,5,23.0,0.03,1,Developing understanding
+STU_1318,70.8,87.1,0.51,4,19.6,0.5,1,Developing understanding
+STU_1319,62.7,83.2,0.47,6,25.5,0.47,1,Developing understanding
+STU_1320,66.7,68.3,0.5,6,30.0,0.21,1,Developing understanding
+STU_1321,75.7,89.3,0.76,5,20.8,0.68,2,Ready for advanced practice
+STU_1322,50.3,51.5,0.55,9,34.2,0.24,1,Developing understanding
+STU_1323,100.0,100.0,0.82,5,29.3,0.4,2,Ready for advanced practice
+STU_1324,46.9,49.9,0.43,4,20.7,0.09,0,Needs foundational revision
+STU_1325,43.1,46.8,0.49,6,29.9,0.17,0,Needs foundational revision
+STU_1326,85.8,100.0,0.85,10,40.0,0.5,2,Ready for advanced practice
+STU_1327,79.2,99.3,0.73,6,28.2,0.6,2,Ready for advanced practice
+STU_1328,76.2,79.1,0.72,3,22.9,0.36,1,Developing understanding
+STU_1329,76.3,86.2,0.7,6,28.7,0.49,1,Developing understanding
+STU_1330,64.8,76.7,0.53,3,17.7,0.35,1,Developing understanding
+STU_1331,48.8,51.5,0.46,3,19.6,0.18,0,Needs foundational revision
+STU_1332,66.4,65.8,0.66,6,26.0,0.11,1,Developing understanding
+STU_1333,52.8,54.9,0.59,3,17.8,-0.08,0,Needs foundational revision
+STU_1334,82.6,88.6,0.79,6,27.9,0.45,2,Ready for advanced practice
+STU_1335,62.4,66.8,0.65,2,21.8,0.23,1,Developing understanding
+STU_1336,50.1,50.6,0.35,4,9.6,-0.04,0,Needs foundational revision
+STU_1337,59.2,61.1,0.53,4,22.5,0.17,1,Developing understanding
+STU_1338,72.4,91.8,0.51,3,18.7,0.65,1,Developing understanding
+STU_1339,54.9,48.1,0.42,7,22.5,-0.18,0,Needs foundational revision
+STU_1340,50.2,49.7,0.52,3,19.7,-0.25,1,Developing understanding
+STU_1341,69.4,79.2,0.78,1,18.3,0.41,1,Developing understanding
+STU_1342,69.4,75.1,0.51,6,27.9,0.12,1,Developing understanding
+STU_1343,55.9,61.7,0.48,3,10.3,0.11,0,Needs foundational revision
+STU_1344,56.5,64.2,0.6,6,31.3,0.41,1,Developing understanding
+STU_1345,69.2,70.6,0.54,2,14.3,0.38,1,Developing understanding
+STU_1346,38.9,34.7,0.37,6,26.5,-0.23,0,Needs foundational revision
+STU_1347,39.7,40.3,0.43,6,27.4,0.02,0,Needs foundational revision
+STU_1348,52.1,60.5,0.51,6,23.5,0.25,0,Needs foundational revision
+STU_1349,61.2,69.2,0.46,9,35.0,0.36,1,Developing understanding
+STU_1350,70.6,85.7,0.6,5,23.5,0.67,1,Developing understanding
+STU_1351,91.6,100.0,0.92,6,24.8,0.69,2,Ready for advanced practice
+STU_1352,80.4,85.0,0.75,7,35.0,0.42,2,Ready for advanced practice
+STU_1353,62.1,62.7,0.42,6,22.7,-0.09,1,Developing understanding
+STU_1354,64.7,66.7,0.67,5,22.9,0.17,1,Developing understanding
+STU_1355,47.0,40.9,0.29,3,14.7,-0.19,0,Needs foundational revision
+STU_1356,64.7,75.5,0.66,8,33.8,0.49,1,Developing understanding
+STU_1357,59.8,59.9,0.45,3,17.8,0.13,1,Developing understanding
+STU_1358,70.8,76.9,0.78,5,28.5,0.15,1,Developing understanding
+STU_1359,50.1,54.5,0.42,4,16.0,-0.05,0,Needs foundational revision
+STU_1360,74.3,86.9,0.62,5,22.8,0.43,2,Ready for advanced practice
+STU_1361,92.6,100.0,0.74,6,28.5,0.45,2,Ready for advanced practice
+STU_1362,63.0,66.3,0.51,3,24.4,0.29,1,Developing understanding
+STU_1363,72.2,87.3,0.77,8,33.9,0.52,2,Ready for advanced practice
+STU_1364,77.4,100.0,0.85,3,26.0,0.78,2,Ready for advanced practice
+STU_1365,57.8,61.5,0.49,6,25.9,0.21,1,Developing understanding
+STU_1366,69.0,70.5,0.61,2,15.9,0.12,1,Developing understanding
+STU_1367,65.2,65.3,0.66,4,22.2,0.09,1,Developing understanding
+STU_1368,66.8,73.5,0.72,2,18.2,0.35,1,Developing understanding
+STU_1369,51.1,32.0,0.49,5,25.2,-0.33,0,Needs foundational revision
+STU_1370,65.4,72.5,0.56,6,30.9,0.22,1,Developing understanding
+STU_1371,74.0,77.3,0.65,6,28.8,0.27,1,Developing understanding
+STU_1372,91.1,90.5,0.89,4,29.2,0.23,2,Ready for advanced practice
+STU_1373,82.3,86.2,0.6,5,21.8,0.04,1,Developing understanding
+STU_1374,100.0,100.0,0.94,5,27.6,0.7,2,Ready for advanced practice
+STU_1375,51.2,54.9,0.42,10,32.9,0.2,1,Developing understanding
+STU_1376,80.7,98.6,0.82,6,30.8,0.48,2,Ready for advanced practice
+STU_1377,68.3,68.3,0.5,6,24.9,0.23,1,Developing understanding
+STU_1378,100.0,100.0,0.94,8,38.4,0.62,2,Ready for advanced practice
+STU_1379,50.5,59.7,0.45,4,17.6,0.33,1,Developing understanding
+STU_1380,49.9,58.1,0.5,3,18.6,0.15,1,Developing understanding
+STU_1381,54.2,43.1,0.36,8,31.4,-0.19,0,Needs foundational revision
+STU_1382,26.8,35.6,0.27,8,22.0,0.29,0,Needs foundational revision
+STU_1383,55.5,65.6,0.52,6,32.6,0.31,1,Developing understanding
+STU_1384,51.3,44.4,0.48,7,27.5,0.05,0,Needs foundational revision
+STU_1385,67.7,71.2,0.65,6,21.7,0.01,1,Developing understanding
+STU_1386,71.2,84.2,0.7,3,21.4,0.38,1,Developing understanding
+STU_1387,98.8,100.0,0.99,6,32.0,0.58,2,Ready for advanced practice
+STU_1388,82.1,100.0,0.68,8,32.9,0.68,2,Ready for advanced practice
+STU_1389,54.6,64.7,0.59,7,32.6,0.22,1,Developing understanding
+STU_1390,48.8,47.3,0.44,3,20.1,-0.08,0,Needs foundational revision
+STU_1391,73.9,82.4,0.54,7,29.9,0.41,1,Developing understanding
+STU_1392,41.2,40.0,0.24,4,19.3,0.11,0,Needs foundational revision
+STU_1393,98.0,100.0,0.84,6,29.8,0.5,2,Ready for advanced practice
+STU_1394,86.2,100.0,0.87,5,33.3,0.65,2,Ready for advanced practice
+STU_1395,56.6,59.1,0.58,3,15.0,0.15,1,Developing understanding
+STU_1396,34.2,28.7,0.4,6,25.2,0.13,0,Needs foundational revision
+STU_1397,89.4,100.0,0.82,7,32.5,0.7,2,Ready for advanced practice
+STU_1398,62.9,73.2,0.55,7,31.6,0.38,1,Developing understanding
+STU_1399,87.3,92.1,0.69,4,20.7,0.25,2,Ready for advanced practice
+STU_1400,36.3,44.7,0.28,5,15.6,0.2,0,Needs foundational revision
+STU_1401,54.2,51.9,0.47,5,23.6,-0.34,0,Needs foundational revision
+STU_1402,65.1,67.9,0.47,6,26.5,0.56,1,Developing understanding
+STU_1403,65.8,63.2,0.51,3,23.1,-0.18,1,Developing understanding
+STU_1404,56.9,51.1,0.55,2,12.7,-0.0,0,Needs foundational revision
+STU_1405,76.2,87.0,0.76,2,22.6,0.35,2,Ready for advanced practice
+STU_1406,45.8,53.4,0.57,8,38.9,0.28,1,Developing understanding
+STU_1407,62.4,79.3,0.7,8,32.2,0.57,1,Developing understanding
+STU_1408,67.2,66.9,0.65,6,24.0,0.07,1,Developing understanding
+STU_1409,74.3,75.5,0.65,6,26.6,0.35,1,Developing understanding
+STU_1410,77.8,81.7,0.75,3,21.5,0.23,1,Developing understanding
+STU_1411,44.8,50.6,0.49,2,17.6,0.17,0,Needs foundational revision
+STU_1412,37.4,39.5,0.23,7,23.4,-0.08,0,Needs foundational revision
+STU_1413,88.0,94.1,0.77,4,28.9,0.43,2,Ready for advanced practice
+STU_1414,71.0,80.7,0.75,4,20.6,0.23,1,Developing understanding
+STU_1415,51.5,47.6,0.43,4,15.0,-0.06,0,Needs foundational revision
+STU_1416,92.9,100.0,0.87,3,26.2,0.53,2,Ready for advanced practice
+STU_1417,67.1,75.5,0.64,5,18.3,0.42,1,Developing understanding
+STU_1418,86.2,91.5,0.69,4,22.7,0.18,1,Developing understanding
+STU_1419,66.2,73.5,0.56,8,41.1,0.15,1,Developing understanding
+STU_1420,100.0,100.0,0.86,5,27.8,0.6,2,Ready for advanced practice
+STU_1421,96.6,100.0,0.74,4,20.5,0.32,2,Ready for advanced practice
+STU_1422,60.5,67.7,0.41,6,24.7,0.26,1,Developing understanding
+STU_1423,82.5,98.3,0.85,3,22.5,0.25,2,Ready for advanced practice
+STU_1424,76.6,71.1,0.63,5,25.5,-0.08,1,Developing understanding
+STU_1425,89.6,100.0,0.82,4,26.8,0.33,2,Ready for advanced practice
+STU_1426,47.6,52.8,0.37,6,21.4,-0.11,0,Needs foundational revision
+STU_1427,77.3,87.9,0.84,3,27.6,0.44,2,Ready for advanced practice
+STU_1428,84.1,88.8,0.69,7,31.5,0.24,2,Ready for advanced practice
+STU_1429,33.3,33.3,0.28,4,20.6,0.11,0,Needs foundational revision
+STU_1430,43.7,45.8,0.51,5,21.7,0.09,0,Needs foundational revision
+STU_1431,28.3,25.3,0.36,6,28.2,0.11,0,Needs foundational revision
+STU_1432,60.2,63.4,0.45,5,22.2,0.14,1,Developing understanding
+STU_1433,77.9,95.5,0.8,5,27.9,0.46,2,Ready for advanced practice
+STU_1434,92.0,99.2,0.82,3,19.6,0.39,2,Ready for advanced practice
+STU_1435,66.3,73.1,0.6,4,19.2,0.31,1,Developing understanding
+STU_1436,94.3,92.4,0.75,3,23.5,0.2,2,Ready for advanced practice
+STU_1437,40.2,45.4,0.24,2,11.5,0.15,0,Needs foundational revision
+STU_1438,34.3,34.7,0.38,4,17.0,-0.03,0,Needs foundational revision
+STU_1439,64.0,63.1,0.58,5,22.5,-0.05,1,Developing understanding
+STU_1440,71.9,79.2,0.63,5,27.2,0.33,1,Developing understanding
+STU_1441,64.4,67.2,0.65,8,31.0,0.16,1,Developing understanding
+STU_1442,27.8,32.5,0.33,3,16.1,0.11,0,Needs foundational revision
+STU_1443,63.4,78.1,0.47,6,25.7,0.59,1,Developing understanding
+STU_1444,41.5,41.5,0.41,9,26.7,-0.05,0,Needs foundational revision
+STU_1445,77.1,86.8,0.59,10,32.7,0.36,1,Developing understanding
+STU_1446,71.6,75.5,0.73,3,22.2,-0.02,1,Developing understanding
+STU_1447,48.1,56.3,0.48,5,21.1,0.22,1,Developing understanding
+STU_1448,55.8,59.7,0.64,5,28.4,0.13,1,Developing understanding
+STU_1449,45.9,49.5,0.29,7,28.9,-0.1,0,Needs foundational revision
+STU_1450,63.9,63.6,0.45,6,27.5,-0.08,1,Developing understanding
+STU_1451,82.2,98.7,0.68,2,23.6,0.45,2,Ready for advanced practice
+STU_1452,47.3,54.6,0.36,3,16.5,0.2,0,Needs foundational revision
+STU_1453,74.1,74.0,0.6,7,31.6,0.29,1,Developing understanding
+STU_1454,55.5,63.2,0.63,6,25.8,0.1,1,Developing understanding
+STU_1455,50.7,61.9,0.39,5,29.5,0.42,1,Developing understanding
+STU_1456,63.1,64.5,0.5,6,32.0,0.07,1,Developing understanding
+STU_1457,46.4,40.6,0.5,5,23.5,-0.28,0,Needs foundational revision
+STU_1458,55.0,59.7,0.49,5,24.5,0.24,1,Developing understanding
+STU_1459,43.4,41.7,0.48,2,19.8,-0.11,0,Needs foundational revision
+STU_1460,100.0,100.0,0.78,9,36.4,0.66,2,Ready for advanced practice
+STU_1461,65.6,73.6,0.59,3,17.6,0.12,1,Developing understanding
+STU_1462,52.4,55.7,0.34,5,24.2,0.15,0,Needs foundational revision
+STU_1463,68.9,79.4,0.49,8,31.2,0.48,1,Developing understanding
+STU_1464,63.0,62.4,0.69,7,31.4,0.12,1,Developing understanding
+STU_1465,61.0,61.2,0.45,4,17.9,-0.04,1,Developing understanding
+STU_1466,76.1,84.3,0.7,6,23.3,0.3,2,Ready for advanced practice
+STU_1467,78.6,96.5,0.69,6,29.0,0.65,2,Ready for advanced practice
+STU_1468,55.5,51.1,0.46,4,23.2,-0.01,1,Developing understanding
+STU_1469,54.6,51.2,0.62,4,21.7,0.12,1,Developing understanding
+STU_1470,60.0,67.8,0.4,6,29.1,0.21,1,Developing understanding
+STU_1471,23.6,23.7,0.26,2,11.0,-0.23,0,Needs foundational revision
+STU_1472,37.7,37.4,0.48,5,20.1,0.15,0,Needs foundational revision
+STU_1473,89.6,98.6,0.83,3,22.3,0.1,2,Ready for advanced practice
+STU_1474,94.6,100.0,0.99,2,21.6,0.85,2,Ready for advanced practice
+STU_1475,60.5,55.4,0.42,3,19.8,-0.2,0,Needs foundational revision
+STU_1476,75.4,79.2,0.66,5,23.1,0.22,1,Developing understanding
+STU_1477,70.6,71.0,0.57,5,28.4,0.24,1,Developing understanding
+STU_1478,100.0,100.0,0.98,3,30.1,0.85,2,Ready for advanced practice
+STU_1479,85.2,90.6,0.92,10,40.9,0.34,2,Ready for advanced practice
+STU_1480,62.7,74.0,0.5,5,27.2,0.58,1,Developing understanding
+STU_1481,47.8,58.9,0.48,6,22.6,0.29,1,Developing understanding
+STU_1482,36.1,29.3,0.24,5,23.6,0.03,0,Needs foundational revision
+STU_1483,68.7,64.8,0.64,4,25.9,0.09,1,Developing understanding
+STU_1484,51.4,58.4,0.46,7,30.6,0.28,1,Developing understanding
+STU_1485,39.4,41.3,0.5,6,26.0,0.03,0,Needs foundational revision
+STU_1486,53.4,64.9,0.52,6,17.3,0.38,1,Developing understanding
+STU_1487,45.5,40.2,0.37,5,20.0,-0.17,0,Needs foundational revision
+STU_1488,95.4,100.0,0.75,5,24.6,0.34,2,Ready for advanced practice
+STU_1489,80.9,83.1,0.63,4,19.6,0.12,1,Developing understanding
+STU_1490,64.9,61.9,0.51,2,16.5,-0.08,1,Developing understanding
+STU_1491,91.6,100.0,0.76,2,17.8,0.47,2,Ready for advanced practice
+STU_1492,66.4,78.1,0.71,6,26.0,0.45,1,Developing understanding
+STU_1493,49.5,61.5,0.47,7,24.9,0.38,1,Developing understanding
+STU_1494,92.4,100.0,0.85,7,30.5,0.13,2,Ready for advanced practice
+STU_1495,74.7,79.5,0.56,4,25.1,0.43,1,Developing understanding
+STU_1496,46.3,62.9,0.53,7,26.9,0.7,1,Developing understanding
+STU_1497,61.6,68.0,0.63,6,26.0,0.18,1,Developing understanding
+STU_1498,49.2,61.6,0.32,7,24.9,0.4,0,Needs foundational revision
+STU_1499,40.1,40.0,0.43,2,16.1,-0.0,0,Needs foundational revision
+STU_1500,81.7,86.3,0.76,4,25.4,0.1,2,Ready for advanced practice
+STU_1501,99.4,100.0,0.78,4,15.2,0.26,2,Ready for advanced practice
+STU_1502,39.8,53.2,0.35,7,29.8,0.29,0,Needs foundational revision
+STU_1503,75.1,82.6,0.68,3,25.0,0.14,1,Developing understanding
+STU_1504,53.3,47.8,0.38,10,31.5,-0.0,0,Needs foundational revision
+STU_1505,56.2,61.5,0.64,5,22.3,0.38,1,Developing understanding
+STU_1506,54.3,55.6,0.6,4,20.8,0.22,1,Developing understanding
+STU_1507,49.4,59.0,0.5,6,23.7,0.28,1,Developing understanding
+STU_1508,65.9,68.3,0.59,6,27.7,0.3,1,Developing understanding
+STU_1509,50.0,51.7,0.43,3,11.8,0.12,0,Needs foundational revision
+STU_1510,69.9,76.4,0.68,4,19.8,0.19,1,Developing understanding
+STU_1511,64.1,72.2,0.6,6,31.8,0.34,1,Developing understanding
+STU_1512,60.7,58.8,0.42,5,19.8,-0.12,1,Developing understanding
+STU_1513,48.7,53.8,0.45,4,24.1,0.38,0,Needs foundational revision
+STU_1514,54.6,58.6,0.59,2,18.1,0.06,1,Developing understanding
+STU_1515,78.6,89.3,0.7,5,20.5,0.52,2,Ready for advanced practice
+STU_1516,74.0,75.8,0.54,3,20.9,0.12,1,Developing understanding
+STU_1517,47.4,55.3,0.52,9,33.3,0.28,0,Needs foundational revision
+STU_1518,66.8,70.1,0.52,8,29.8,0.11,1,Developing understanding
+STU_1519,78.5,81.1,0.64,6,28.4,0.1,1,Developing understanding
+STU_1520,35.0,20.3,0.22,3,16.5,-0.47,0,Needs foundational revision
+STU_1521,74.8,75.4,0.63,5,27.2,0.07,1,Developing understanding
+STU_1522,53.1,58.1,0.56,7,32.7,0.2,1,Developing understanding
+STU_1523,75.3,78.7,0.69,4,24.5,0.36,1,Developing understanding
+STU_1524,51.3,54.2,0.38,3,12.9,0.19,0,Needs foundational revision
+STU_1525,32.5,33.9,0.41,6,23.5,-0.01,0,Needs foundational revision
+STU_1526,35.7,30.6,0.44,6,34.1,0.0,0,Needs foundational revision
+STU_1527,65.9,72.6,0.71,6,30.7,0.08,1,Developing understanding
+STU_1528,69.7,83.9,0.56,6,33.8,0.37,1,Developing understanding
+STU_1529,48.7,54.5,0.43,7,31.8,0.43,1,Developing understanding
+STU_1530,76.5,99.8,0.84,5,28.3,0.71,2,Ready for advanced practice
+STU_1531,35.1,38.3,0.4,1,13.2,0.15,0,Needs foundational revision
+STU_1532,63.8,72.1,0.44,7,27.6,0.26,1,Developing understanding
+STU_1533,43.2,47.9,0.26,6,17.9,0.27,0,Needs foundational revision
+STU_1534,53.3,62.8,0.47,7,28.2,0.23,0,Needs foundational revision
+STU_1535,65.9,80.9,0.72,7,34.8,0.54,1,Developing understanding
+STU_1536,49.5,46.6,0.46,3,16.2,0.01,0,Needs foundational revision
+STU_1537,58.1,50.5,0.53,3,20.1,-0.12,0,Needs foundational revision
+STU_1538,83.1,80.8,0.64,4,25.2,0.14,1,Developing understanding
+STU_1539,54.6,60.6,0.54,7,26.3,0.21,1,Developing understanding
+STU_1540,80.0,93.5,0.82,5,26.0,0.45,2,Ready for advanced practice
+STU_1541,44.7,57.0,0.37,4,16.4,0.39,1,Developing understanding
+STU_1542,74.5,83.3,0.76,4,21.7,0.37,1,Developing understanding
+STU_1543,90.9,100.0,0.97,4,22.7,0.76,2,Ready for advanced practice
+STU_1544,20.5,10.2,0.1,5,16.0,-0.3,0,Needs foundational revision
+STU_1545,50.7,56.8,0.47,3,22.4,0.06,1,Developing understanding
+STU_1546,75.4,72.9,0.62,5,22.2,-0.02,1,Developing understanding
+STU_1547,61.3,65.4,0.65,5,25.6,0.14,1,Developing understanding
+STU_1548,71.7,78.4,0.67,7,29.1,0.44,1,Developing understanding
+STU_1549,54.1,59.9,0.53,3,22.4,0.18,1,Developing understanding
+STU_1550,66.6,77.0,0.69,2,22.3,0.49,1,Developing understanding
+STU_1551,62.2,72.8,0.53,6,29.0,0.26,1,Developing understanding
+STU_1552,86.0,100.0,0.91,6,31.8,0.47,2,Ready for advanced practice
+STU_1553,69.6,86.1,0.64,7,29.5,0.74,2,Ready for advanced practice
+STU_1554,71.1,75.2,0.54,7,25.4,0.19,1,Developing understanding
+STU_1555,57.6,66.6,0.58,2,22.8,0.45,1,Developing understanding
+STU_1556,56.2,53.8,0.6,4,19.9,0.13,0,Needs foundational revision
+STU_1557,57.2,60.4,0.47,4,22.6,0.26,1,Developing understanding
+STU_1558,72.1,89.0,0.76,8,37.3,0.64,2,Ready for advanced practice
+STU_1559,57.4,67.4,0.64,7,28.6,0.35,1,Developing understanding
+STU_1560,70.2,64.6,0.57,4,25.0,-0.25,1,Developing understanding
+STU_1561,100.0,100.0,1.0,5,31.8,0.62,2,Ready for advanced practice
+STU_1562,80.7,96.9,0.63,2,22.7,0.5,2,Ready for advanced practice
+STU_1563,59.1,64.6,0.45,5,21.5,0.21,1,Developing understanding
+STU_1564,86.6,99.2,0.69,5,22.0,0.39,2,Ready for advanced practice
+STU_1565,57.7,47.5,0.64,2,16.2,-0.12,1,Developing understanding
+STU_1566,28.3,10.0,0.3,3,16.8,-0.19,0,Needs foundational revision
+STU_1567,46.9,50.9,0.32,7,26.5,0.12,0,Needs foundational revision
+STU_1568,31.3,26.3,0.27,5,19.5,0.03,0,Needs foundational revision
+STU_1569,58.7,67.5,0.57,3,13.6,0.39,1,Developing understanding
+STU_1570,65.3,68.1,0.47,8,32.0,0.16,1,Developing understanding
+STU_1571,95.2,100.0,0.98,6,37.7,0.72,2,Ready for advanced practice
+STU_1572,70.9,81.9,0.74,5,27.7,0.38,1,Developing understanding
+STU_1573,61.1,63.1,0.56,7,31.0,0.05,1,Developing understanding
+STU_1574,79.9,85.5,0.87,8,37.1,0.09,2,Ready for advanced practice
+STU_1575,25.2,26.0,0.2,4,18.6,-0.03,0,Needs foundational revision
+STU_1576,69.2,79.1,0.77,6,32.1,0.47,1,Developing understanding
+STU_1577,78.9,90.9,0.77,7,32.9,0.31,2,Ready for advanced practice
+STU_1578,38.4,26.3,0.39,3,16.2,-0.3,0,Needs foundational revision
+STU_1579,85.6,97.9,0.68,6,25.7,0.44,2,Ready for advanced practice
+STU_1580,71.1,72.3,0.76,3,20.9,0.29,1,Developing understanding
+STU_1581,57.5,64.8,0.5,4,22.0,0.26,1,Developing understanding
+STU_1582,76.4,91.0,0.59,2,16.2,0.56,2,Ready for advanced practice
+STU_1583,100.0,100.0,0.76,3,22.6,-0.07,2,Ready for advanced practice
+STU_1584,68.3,65.3,0.64,4,24.0,0.13,1,Developing understanding
+STU_1585,69.5,73.0,0.64,4,25.2,0.24,1,Developing understanding
+STU_1586,56.7,74.5,0.58,7,33.3,0.58,1,Developing understanding
+STU_1587,49.7,47.1,0.57,2,17.1,-0.16,0,Needs foundational revision
+STU_1588,79.9,96.2,0.6,6,23.3,0.62,2,Ready for advanced practice
+STU_1589,49.6,51.5,0.52,7,27.7,0.23,0,Needs foundational revision
+STU_1590,66.3,68.4,0.51,7,28.7,0.18,1,Developing understanding
+STU_1591,56.4,65.6,0.62,4,16.9,0.17,1,Developing understanding
+STU_1592,73.6,81.7,0.77,5,30.8,0.33,2,Ready for advanced practice
+STU_1593,71.0,85.6,0.66,6,28.3,0.52,2,Ready for advanced practice
+STU_1594,83.7,89.1,0.82,5,28.5,0.24,2,Ready for advanced practice
+STU_1595,55.8,56.4,0.45,5,27.0,0.21,1,Developing understanding
+STU_1596,60.1,66.4,0.54,5,22.1,0.1,1,Developing understanding
+STU_1597,47.4,50.4,0.53,5,25.5,0.04,0,Needs foundational revision
+STU_1598,57.0,83.6,0.51,6,25.7,0.69,1,Developing understanding
+STU_1599,71.8,75.2,0.61,3,19.3,0.3,1,Developing understanding
+STU_1600,78.6,92.8,0.71,4,21.2,0.43,2,Ready for advanced practice
+STU_1601,48.4,53.6,0.54,3,24.0,0.42,1,Developing understanding
+STU_1602,80.7,80.7,0.68,2,17.1,-0.02,1,Developing understanding
+STU_1603,89.4,100.0,0.71,9,38.2,0.78,2,Ready for advanced practice
+STU_1604,72.4,58.2,0.72,2,13.0,-0.24,1,Developing understanding
+STU_1605,98.8,100.0,1.0,11,48.0,0.56,2,Ready for advanced practice
+STU_1606,51.1,48.0,0.34,6,27.3,-0.03,0,Needs foundational revision
+STU_1607,42.6,43.3,0.31,7,26.5,0.14,0,Needs foundational revision
+STU_1608,33.0,32.2,0.19,4,16.6,-0.09,0,Needs foundational revision
+STU_1609,91.9,100.0,0.79,7,33.2,0.42,2,Ready for advanced practice
+STU_1610,76.8,85.3,0.68,5,32.6,0.36,2,Ready for advanced practice
+STU_1611,64.0,66.0,0.66,4,17.6,0.05,1,Developing understanding
+STU_1612,70.0,69.7,0.68,1,18.0,-0.03,1,Developing understanding
+STU_1613,44.7,51.0,0.44,6,22.6,0.25,0,Needs foundational revision
+STU_1614,100.0,100.0,0.86,9,37.8,0.68,2,Ready for advanced practice
+STU_1615,67.3,87.4,0.71,3,20.3,0.62,2,Ready for advanced practice
+STU_1616,67.0,69.7,0.6,4,20.9,0.06,1,Developing understanding
+STU_1617,78.1,95.6,0.85,7,32.7,0.64,2,Ready for advanced practice
+STU_1618,73.7,75.7,0.71,2,15.1,0.21,1,Developing understanding
+STU_1619,69.0,78.3,0.52,6,29.3,0.45,1,Developing understanding
+STU_1620,50.8,58.9,0.51,6,20.8,0.35,1,Developing understanding
+STU_1621,73.5,76.4,0.62,8,34.0,0.36,1,Developing understanding
+STU_1622,98.9,100.0,0.95,6,30.5,0.5,2,Ready for advanced practice
+STU_1623,89.2,97.7,0.68,2,14.7,0.44,2,Ready for advanced practice
+STU_1624,93.7,100.0,0.75,5,27.2,0.51,2,Ready for advanced practice
+STU_1625,55.8,56.2,0.61,7,25.2,0.12,1,Developing understanding
+STU_1626,47.2,35.8,0.35,2,14.3,-0.29,0,Needs foundational revision
+STU_1627,62.7,63.8,0.67,2,13.8,0.17,1,Developing understanding
+STU_1628,66.0,75.8,0.53,3,20.3,0.47,1,Developing understanding
+STU_1629,84.7,100.0,0.81,7,29.5,0.68,2,Ready for advanced practice
+STU_1630,34.5,38.5,0.37,5,20.6,-0.19,0,Needs foundational revision
+STU_1631,92.5,100.0,0.84,6,31.0,0.25,2,Ready for advanced practice
+STU_1632,62.2,78.0,0.51,9,31.3,0.47,1,Developing understanding
+STU_1633,57.3,59.2,0.43,6,25.0,-0.11,1,Developing understanding
+STU_1634,46.8,44.6,0.29,7,21.4,0.07,0,Needs foundational revision
+STU_1635,35.2,25.8,0.26,4,20.0,-0.18,0,Needs foundational revision
+STU_1636,79.8,93.8,0.77,4,29.6,0.74,2,Ready for advanced practice
+STU_1637,66.3,78.3,0.73,5,34.7,0.26,1,Developing understanding
+STU_1638,41.8,49.1,0.49,5,23.7,0.38,0,Needs foundational revision
+STU_1639,41.7,41.4,0.46,6,27.9,0.19,0,Needs foundational revision
+STU_1640,59.0,64.2,0.62,5,19.6,0.28,1,Developing understanding
+STU_1641,95.0,98.4,0.91,6,35.5,0.17,2,Ready for advanced practice
+STU_1642,60.3,53.8,0.48,4,23.0,-0.31,1,Developing understanding
+STU_1643,37.9,39.5,0.47,2,14.2,0.02,0,Needs foundational revision
+STU_1644,60.6,64.9,0.6,4,25.9,0.3,1,Developing understanding
+STU_1645,60.1,62.0,0.56,4,21.0,-0.03,1,Developing understanding
+STU_1646,16.5,10.0,0.05,4,14.2,-0.48,0,Needs foundational revision
+STU_1647,64.0,72.6,0.57,7,30.7,0.37,1,Developing understanding
+STU_1648,60.8,71.9,0.54,8,28.3,0.33,1,Developing understanding
+STU_1649,77.5,86.0,0.81,6,32.8,0.44,2,Ready for advanced practice
+STU_1650,98.3,100.0,0.91,5,25.2,0.65,2,Ready for advanced practice
+STU_1651,85.3,89.6,0.74,3,18.2,0.08,1,Developing understanding
+STU_1652,60.2,60.9,0.69,1,13.1,0.17,1,Developing understanding
+STU_1653,45.1,51.5,0.29,5,23.3,0.32,0,Needs foundational revision
+STU_1654,100.0,100.0,0.89,4,23.8,0.48,2,Ready for advanced practice
+STU_1655,66.1,77.8,0.46,6,21.5,0.14,1,Developing understanding
+STU_1656,65.3,86.0,0.67,4,21.2,0.73,1,Developing understanding
+STU_1657,64.6,68.0,0.71,5,26.0,0.06,1,Developing understanding
+STU_1658,68.6,80.1,0.56,7,25.6,0.38,1,Developing understanding
+STU_1659,62.4,73.2,0.67,4,19.6,0.6,1,Developing understanding
+STU_1660,54.7,56.6,0.43,4,26.6,0.06,1,Developing understanding
+STU_1661,55.2,65.6,0.62,5,22.4,0.42,1,Developing understanding
+STU_1662,64.4,68.5,0.66,6,27.0,0.11,1,Developing understanding
+STU_1663,55.2,58.5,0.59,6,26.0,0.11,1,Developing understanding
+STU_1664,52.2,55.6,0.33,5,20.2,0.08,1,Developing understanding
+STU_1665,66.9,81.0,0.75,9,38.3,0.61,2,Ready for advanced practice
+STU_1666,60.4,74.1,0.62,7,32.8,0.54,1,Developing understanding
+STU_1667,92.1,100.0,0.78,5,25.9,0.71,2,Ready for advanced practice
+STU_1668,17.3,13.2,0.26,4,14.4,-0.11,0,Needs foundational revision
+STU_1669,84.6,100.0,0.7,4,27.3,0.58,2,Ready for advanced practice
+STU_1670,87.4,99.8,0.91,5,28.1,0.44,2,Ready for advanced practice
+STU_1671,27.7,28.9,0.14,5,24.3,0.05,0,Needs foundational revision
+STU_1672,58.8,71.9,0.6,4,15.4,0.22,1,Developing understanding
+STU_1673,58.3,60.0,0.54,5,24.6,0.29,1,Developing understanding
+STU_1674,39.7,36.1,0.24,4,23.6,0.03,0,Needs foundational revision
+STU_1675,51.0,51.5,0.39,6,23.6,-0.25,0,Needs foundational revision
+STU_1676,45.0,37.3,0.26,3,15.0,-0.31,0,Needs foundational revision
+STU_1677,96.5,100.0,0.87,7,33.8,0.54,2,Ready for advanced practice
+STU_1678,81.8,76.7,0.68,6,26.5,-0.01,1,Developing understanding
+STU_1679,87.9,100.0,0.83,2,19.0,0.56,2,Ready for advanced practice
+STU_1680,78.0,91.9,0.65,6,26.8,0.47,2,Ready for advanced practice
+STU_1681,44.7,42.2,0.35,5,19.8,0.07,0,Needs foundational revision
+STU_1682,55.6,54.0,0.58,1,18.1,-0.04,1,Developing understanding
+STU_1683,73.8,84.7,0.54,6,27.8,0.49,1,Developing understanding
+STU_1684,43.0,58.5,0.51,5,24.4,0.58,0,Needs foundational revision
+STU_1685,77.8,86.1,0.81,7,34.7,0.51,2,Ready for advanced practice
+STU_1686,60.7,73.0,0.6,2,16.4,0.29,1,Developing understanding
+STU_1687,58.3,66.9,0.56,3,16.9,0.2,1,Developing understanding
+STU_1688,77.8,88.9,0.82,3,20.6,0.5,2,Ready for advanced practice
+STU_1689,73.0,76.6,0.57,4,21.8,0.18,1,Developing understanding
+STU_1690,58.5,58.7,0.41,4,16.7,0.03,0,Needs foundational revision
+STU_1691,85.9,94.2,0.7,2,16.9,0.46,2,Ready for advanced practice
+STU_1692,45.5,58.8,0.5,4,19.5,0.6,0,Needs foundational revision
+STU_1693,76.1,73.7,0.55,4,28.0,-0.05,1,Developing understanding
+STU_1694,75.7,88.4,0.71,4,15.2,0.25,1,Developing understanding
+STU_1695,59.4,64.5,0.69,3,20.2,0.05,1,Developing understanding
+STU_1696,70.9,92.5,0.75,4,29.2,0.71,2,Ready for advanced practice
+STU_1697,42.5,43.5,0.39,7,27.6,-0.02,0,Needs foundational revision
+STU_1698,81.6,75.9,0.61,3,22.1,-0.05,1,Developing understanding
+STU_1699,61.7,72.2,0.66,5,25.7,0.43,1,Developing understanding
+STU_1700,55.6,72.5,0.54,5,21.9,0.52,1,Developing understanding
+STU_1701,83.9,87.8,0.65,4,16.0,0.36,1,Developing understanding
+STU_1702,52.3,56.7,0.35,5,22.4,0.07,0,Needs foundational revision
+STU_1703,39.6,53.7,0.48,4,18.5,0.19,0,Needs foundational revision
+STU_1704,37.0,48.9,0.39,4,17.2,0.31,0,Needs foundational revision
+STU_1705,75.9,88.0,0.79,7,30.5,0.26,1,Developing understanding
+STU_1706,42.0,48.2,0.5,8,36.2,0.21,0,Needs foundational revision
+STU_1707,96.6,100.0,0.9,7,40.5,0.5,2,Ready for advanced practice
+STU_1708,27.5,16.6,0.26,3,16.2,-0.32,0,Needs foundational revision
+STU_1709,95.5,100.0,0.85,2,18.8,0.34,2,Ready for advanced practice
+STU_1710,68.8,82.3,0.57,6,23.3,0.43,1,Developing understanding
+STU_1711,63.3,71.8,0.56,3,20.6,0.29,1,Developing understanding
+STU_1712,55.2,70.7,0.58,6,32.4,0.41,1,Developing understanding
+STU_1713,72.2,78.2,0.69,4,22.5,0.33,1,Developing understanding
+STU_1714,64.3,73.8,0.7,6,21.3,0.41,1,Developing understanding
+STU_1715,84.9,91.5,0.75,6,31.1,0.25,2,Ready for advanced practice
+STU_1716,67.1,69.3,0.64,6,30.7,0.26,1,Developing understanding
+STU_1717,67.7,76.9,0.65,7,25.6,0.33,1,Developing understanding
+STU_1718,58.5,59.1,0.56,7,29.7,0.3,1,Developing understanding
+STU_1719,64.0,77.5,0.64,6,29.1,0.37,1,Developing understanding
+STU_1720,70.5,75.7,0.56,6,26.5,0.2,1,Developing understanding
+STU_1721,34.2,28.9,0.31,3,13.9,-0.13,0,Needs foundational revision
+STU_1722,40.7,52.1,0.25,5,23.6,0.59,0,Needs foundational revision
+STU_1723,78.4,89.6,0.68,5,24.4,0.49,1,Developing understanding
+STU_1724,68.1,77.8,0.62,3,15.4,0.28,1,Developing understanding
+STU_1725,61.7,67.5,0.61,4,16.1,0.15,1,Developing understanding
+STU_1726,65.3,69.4,0.73,4,27.5,0.28,1,Developing understanding
+STU_1727,71.3,75.4,0.68,5,27.5,0.3,1,Developing understanding
+STU_1728,55.3,65.0,0.58,5,24.7,0.28,1,Developing understanding
+STU_1729,51.0,40.8,0.47,3,16.8,-0.29,0,Needs foundational revision
+STU_1730,68.5,69.0,0.66,7,28.9,0.01,1,Developing understanding
+STU_1731,47.4,43.7,0.3,5,17.9,-0.17,0,Needs foundational revision
+STU_1732,72.3,80.2,0.58,5,23.2,0.26,1,Developing understanding
+STU_1733,34.4,34.4,0.27,5,14.4,-0.14,0,Needs foundational revision
+STU_1734,83.5,95.8,0.75,7,29.3,0.69,2,Ready for advanced practice
+STU_1735,73.5,63.3,0.53,6,25.5,-0.1,1,Developing understanding
+STU_1736,69.6,67.9,0.52,4,23.1,0.02,1,Developing understanding
+STU_1737,82.7,100.0,0.68,6,28.1,0.64,2,Ready for advanced practice
+STU_1738,95.0,100.0,1.0,6,34.4,0.66,2,Ready for advanced practice
+STU_1739,83.3,100.0,0.71,6,32.5,0.56,2,Ready for advanced practice
+STU_1740,31.9,41.0,0.28,5,24.1,0.4,0,Needs foundational revision
+STU_1741,42.0,31.7,0.29,7,27.4,-0.12,0,Needs foundational revision
+STU_1742,53.8,47.5,0.52,3,18.8,0.12,0,Needs foundational revision
+STU_1743,65.5,67.8,0.53,10,33.4,0.19,1,Developing understanding
+STU_1744,74.3,69.1,0.59,3,21.8,-0.18,1,Developing understanding
+STU_1745,51.9,59.0,0.48,3,23.3,0.07,1,Developing understanding
+STU_1746,68.4,78.9,0.47,3,19.2,0.28,1,Developing understanding
+STU_1747,51.4,55.5,0.32,4,24.6,0.13,0,Needs foundational revision
+STU_1748,54.0,55.5,0.41,7,22.8,0.2,0,Needs foundational revision
+STU_1749,39.7,30.3,0.22,3,11.7,-0.22,0,Needs foundational revision
+STU_1750,48.4,46.6,0.32,5,23.9,-0.11,0,Needs foundational revision
+STU_1751,40.7,49.5,0.32,4,19.6,0.24,0,Needs foundational revision
+STU_1752,47.4,53.7,0.52,10,40.2,0.19,1,Developing understanding
+STU_1753,84.0,91.5,0.78,5,26.9,0.47,2,Ready for advanced practice
+STU_1754,47.9,51.8,0.44,1,10.2,0.05,0,Needs foundational revision
+STU_1755,100.0,100.0,0.85,5,27.0,0.75,2,Ready for advanced practice
+STU_1756,73.9,84.2,0.8,5,22.5,0.59,2,Ready for advanced practice
+STU_1757,68.3,63.6,0.59,4,18.7,-0.06,1,Developing understanding
+STU_1758,49.5,46.5,0.33,4,21.8,-0.23,0,Needs foundational revision
+STU_1759,77.6,88.0,0.74,2,21.5,0.45,2,Ready for advanced practice
+STU_1760,54.6,63.0,0.38,7,28.2,0.08,1,Developing understanding
+STU_1761,67.2,73.1,0.56,9,29.1,0.15,1,Developing understanding
+STU_1762,100.0,100.0,0.91,4,24.9,0.7,2,Ready for advanced practice
+STU_1763,63.3,70.8,0.69,3,17.1,0.3,1,Developing understanding
+STU_1764,85.7,97.6,0.78,7,35.4,0.47,2,Ready for advanced practice
+STU_1765,52.3,56.9,0.54,3,17.2,0.3,1,Developing understanding
+STU_1766,64.4,68.2,0.73,7,28.0,0.3,1,Developing understanding
+STU_1767,96.9,100.0,0.77,4,24.3,0.69,2,Ready for advanced practice
+STU_1768,53.7,54.6,0.42,4,18.1,-0.1,0,Needs foundational revision
+STU_1769,97.6,100.0,0.86,2,24.7,0.58,2,Ready for advanced practice
+STU_1770,77.7,98.1,0.68,4,21.0,0.57,2,Ready for advanced practice
+STU_1771,54.9,48.4,0.47,5,19.0,-0.17,0,Needs foundational revision
+STU_1772,76.4,91.2,0.82,5,20.8,0.32,2,Ready for advanced practice
+STU_1773,82.5,95.0,0.81,4,24.7,0.64,2,Ready for advanced practice
+STU_1774,76.2,85.7,0.73,3,19.5,0.54,1,Developing understanding
+STU_1775,36.7,28.8,0.28,9,26.5,-0.04,0,Needs foundational revision
+STU_1776,51.9,52.1,0.57,4,25.4,0.08,0,Needs foundational revision
+STU_1777,60.5,71.7,0.69,5,27.7,0.53,1,Developing understanding
+STU_1778,63.7,79.4,0.68,5,25.5,0.55,1,Developing understanding
+STU_1779,76.2,78.1,0.54,8,35.6,0.04,1,Developing understanding
+STU_1780,68.2,65.2,0.66,5,27.4,0.07,1,Developing understanding
+STU_1781,41.0,37.4,0.24,3,12.9,-0.08,0,Needs foundational revision
+STU_1782,71.8,77.8,0.58,3,16.3,0.3,1,Developing understanding
+STU_1783,76.0,72.6,0.56,4,24.2,0.15,1,Developing understanding
+STU_1784,75.1,83.4,0.71,5,27.3,0.49,2,Ready for advanced practice
+STU_1785,84.5,89.4,0.82,6,30.4,0.32,2,Ready for advanced practice
+STU_1786,80.0,82.0,0.61,7,27.3,-0.15,1,Developing understanding
+STU_1787,73.3,79.9,0.63,7,31.9,0.23,1,Developing understanding
+STU_1788,63.7,72.5,0.57,7,27.0,0.25,1,Developing understanding
+STU_1789,35.1,25.9,0.28,3,15.6,-0.13,0,Needs foundational revision
+STU_1790,72.7,76.6,0.55,3,23.4,-0.04,1,Developing understanding
+STU_1791,68.7,71.1,0.6,6,25.2,-0.11,1,Developing understanding
+STU_1792,69.9,67.1,0.71,5,21.3,0.21,1,Developing understanding
+STU_1793,42.0,41.2,0.25,4,14.9,0.08,0,Needs foundational revision
+STU_1794,45.5,53.1,0.29,4,21.4,0.22,0,Needs foundational revision
+STU_1795,84.0,100.0,0.72,6,29.4,0.61,2,Ready for advanced practice
+STU_1796,64.3,64.9,0.72,2,18.2,0.13,1,Developing understanding
+STU_1797,77.3,79.1,0.75,4,22.5,0.12,1,Developing understanding
+STU_1798,65.5,74.3,0.65,8,34.2,0.45,1,Developing understanding
+STU_1799,65.5,74.3,0.55,6,24.1,0.33,1,Developing understanding
+STU_1800,81.9,99.6,0.77,7,32.7,0.52,2,Ready for advanced practice
+STU_1801,55.7,43.4,0.36,6,22.1,-0.37,0,Needs foundational revision
+STU_1802,66.7,73.1,0.65,5,22.6,0.1,1,Developing understanding
+STU_1803,56.7,60.1,0.64,5,23.3,0.26,1,Developing understanding
+STU_1804,57.2,61.1,0.55,5,23.0,0.29,1,Developing understanding
+STU_1805,59.4,74.2,0.65,6,27.7,0.46,1,Developing understanding
+STU_1806,69.0,81.3,0.69,4,24.0,0.34,1,Developing understanding
+STU_1807,56.4,61.7,0.4,6,13.7,0.08,0,Needs foundational revision
+STU_1808,87.6,95.9,0.92,6,28.6,0.54,2,Ready for advanced practice
+STU_1809,48.9,48.4,0.31,1,10.1,0.06,0,Needs foundational revision
+STU_1810,61.6,73.1,0.57,6,31.4,0.33,1,Developing understanding
+STU_1811,57.1,58.2,0.41,3,14.2,0.04,1,Developing understanding
+STU_1812,91.0,94.2,0.68,7,31.2,0.3,2,Ready for advanced practice
+STU_1813,68.5,77.6,0.6,5,29.2,0.29,1,Developing understanding
+STU_1814,83.6,90.3,0.7,4,19.4,0.39,2,Ready for advanced practice
+STU_1815,38.3,47.9,0.34,6,25.3,0.1,0,Needs foundational revision
+STU_1816,69.8,86.1,0.66,8,30.5,0.41,1,Developing understanding
+STU_1817,81.0,96.0,0.6,5,23.2,0.5,2,Ready for advanced practice
+STU_1818,66.5,75.7,0.49,3,16.0,0.15,1,Developing understanding
+STU_1819,84.2,91.4,0.78,6,27.2,0.28,2,Ready for advanced practice
+STU_1820,55.7,67.1,0.46,4,28.7,0.34,1,Developing understanding
+STU_1821,90.4,100.0,0.89,1,20.7,0.18,2,Ready for advanced practice
+STU_1822,100.0,100.0,0.95,4,29.8,0.35,2,Ready for advanced practice
+STU_1823,58.5,68.3,0.64,10,39.1,0.44,1,Developing understanding
+STU_1824,57.0,57.5,0.58,5,19.6,0.29,1,Developing understanding
+STU_1825,91.2,95.9,0.81,6,30.9,0.2,2,Ready for advanced practice
+STU_1826,93.4,100.0,0.9,5,31.5,0.45,2,Ready for advanced practice
+STU_1827,55.6,57.6,0.44,3,15.2,-0.07,0,Needs foundational revision
+STU_1828,57.4,60.2,0.46,4,23.5,0.03,1,Developing understanding
+STU_1829,59.9,69.6,0.63,5,27.2,0.48,1,Developing understanding
+STU_1830,40.8,38.5,0.35,6,29.8,0.22,0,Needs foundational revision
+STU_1831,48.5,50.8,0.53,5,22.6,0.17,0,Needs foundational revision
+STU_1832,46.9,47.3,0.52,6,23.0,0.06,0,Needs foundational revision
+STU_1833,51.2,48.5,0.57,5,23.3,-0.06,0,Needs foundational revision
+STU_1834,64.4,83.2,0.71,5,30.3,0.65,1,Developing understanding
+STU_1835,69.2,85.9,0.61,6,21.8,0.35,1,Developing understanding
+STU_1836,92.9,99.6,0.79,6,23.3,0.25,2,Ready for advanced practice
+STU_1837,47.0,52.3,0.45,4,20.7,0.24,1,Developing understanding
+STU_1838,82.7,89.3,0.71,4,22.2,0.3,2,Ready for advanced practice
+STU_1839,61.1,65.2,0.59,3,19.6,0.14,1,Developing understanding
+STU_1840,64.1,69.3,0.64,2,20.6,0.34,1,Developing understanding
+STU_1841,77.1,84.1,0.76,7,29.9,0.26,2,Ready for advanced practice
+STU_1842,44.8,44.6,0.37,4,13.8,-0.08,0,Needs foundational revision
+STU_1843,71.9,79.0,0.55,4,27.8,0.25,1,Developing understanding
+STU_1844,68.0,72.5,0.6,4,19.2,0.11,1,Developing understanding
+STU_1845,73.9,84.2,0.56,6,23.6,0.34,1,Developing understanding
+STU_1846,70.2,82.5,0.76,5,29.9,0.78,2,Ready for advanced practice
+STU_1847,100.0,100.0,0.86,7,31.7,0.35,2,Ready for advanced practice
+STU_1848,53.5,43.4,0.38,4,19.4,-0.3,0,Needs foundational revision
+STU_1849,55.4,40.9,0.36,2,15.8,-0.41,0,Needs foundational revision
+STU_1850,53.8,53.4,0.53,4,24.6,0.16,1,Developing understanding
+STU_1851,55.0,59.3,0.54,8,30.5,0.1,1,Developing understanding
+STU_1852,53.5,57.4,0.44,6,29.8,0.19,0,Needs foundational revision
+STU_1853,86.4,86.6,0.66,5,19.0,0.28,1,Developing understanding
+STU_1854,90.6,96.1,0.8,7,34.3,0.15,2,Ready for advanced practice
+STU_1855,54.7,42.9,0.44,7,25.3,-0.24,0,Needs foundational revision
+STU_1856,50.0,56.0,0.51,3,22.7,0.22,0,Needs foundational revision
+STU_1857,73.5,83.1,0.7,4,23.8,0.35,1,Developing understanding
+STU_1858,55.1,60.0,0.46,7,26.0,0.06,1,Developing understanding
+STU_1859,76.4,81.9,0.61,5,26.8,-0.06,1,Developing understanding
+STU_1860,68.7,74.6,0.77,2,21.9,0.46,1,Developing understanding
+STU_1861,37.7,43.5,0.33,3,18.4,0.24,0,Needs foundational revision
+STU_1862,92.9,100.0,0.9,6,27.7,0.56,2,Ready for advanced practice
+STU_1863,97.3,100.0,0.78,4,22.9,0.2,2,Ready for advanced practice
+STU_1864,54.0,59.1,0.49,6,25.8,0.17,1,Developing understanding
+STU_1865,58.0,51.2,0.39,5,22.0,-0.22,0,Needs foundational revision
+STU_1866,70.1,81.4,0.64,6,29.9,0.52,2,Ready for advanced practice
+STU_1867,71.0,76.6,0.78,6,23.4,0.4,1,Developing understanding
+STU_1868,76.9,79.2,0.66,4,24.0,-0.06,1,Developing understanding
+STU_1869,100.0,100.0,0.77,7,30.9,0.36,2,Ready for advanced practice
+STU_1870,61.8,70.4,0.42,7,25.0,0.2,1,Developing understanding
+STU_1871,50.6,49.7,0.43,5,20.4,0.01,0,Needs foundational revision
+STU_1872,40.2,33.9,0.26,3,15.0,-0.14,0,Needs foundational revision
+STU_1873,51.8,39.3,0.33,4,8.1,-0.33,0,Needs foundational revision
+STU_1874,64.4,76.2,0.66,6,25.8,0.42,1,Developing understanding
+STU_1875,97.3,100.0,0.87,6,27.8,0.35,2,Ready for advanced practice
+STU_1876,55.7,54.8,0.44,4,21.9,-0.33,1,Developing understanding
+STU_1877,69.0,70.5,0.75,4,21.6,0.27,1,Developing understanding
+STU_1878,64.7,73.5,0.47,4,20.0,0.31,1,Developing understanding
+STU_1879,86.4,100.0,0.92,3,28.2,0.45,2,Ready for advanced practice
+STU_1880,100.0,100.0,0.85,5,30.7,0.84,2,Ready for advanced practice
+STU_1881,55.4,64.1,0.62,2,20.2,0.32,1,Developing understanding
+STU_1882,56.2,59.4,0.54,7,27.5,0.28,1,Developing understanding
+STU_1883,83.8,90.1,0.86,6,31.9,0.48,2,Ready for advanced practice
+STU_1884,77.3,91.5,0.85,5,27.0,0.44,2,Ready for advanced practice
+STU_1885,98.2,100.0,0.83,3,21.9,0.36,2,Ready for advanced practice
+STU_1886,75.5,83.5,0.82,5,28.6,0.39,2,Ready for advanced practice
+STU_1887,58.5,60.6,0.5,6,24.2,0.27,1,Developing understanding
+STU_1888,75.6,69.6,0.65,6,32.3,0.15,1,Developing understanding
+STU_1889,85.0,84.8,0.72,6,28.2,0.15,2,Ready for advanced practice
+STU_1890,79.8,84.0,0.74,7,33.2,0.19,1,Developing understanding
+STU_1891,74.1,97.8,0.57,7,33.7,0.69,2,Ready for advanced practice
+STU_1892,84.2,100.0,0.78,5,30.0,0.53,2,Ready for advanced practice
+STU_1893,86.0,98.5,0.79,5,22.8,0.45,2,Ready for advanced practice
+STU_1894,89.9,96.3,0.9,6,32.1,0.32,2,Ready for advanced practice
+STU_1895,76.7,89.2,0.8,7,34.6,0.59,2,Ready for advanced practice
+STU_1896,62.0,72.4,0.55,5,26.7,0.19,1,Developing understanding
+STU_1897,67.6,74.9,0.56,7,25.8,0.26,1,Developing understanding
+STU_1898,86.7,80.9,0.72,3,19.1,0.11,1,Developing understanding
+STU_1899,50.3,49.4,0.37,4,22.4,0.07,0,Needs foundational revision
+STU_1900,71.6,70.0,0.52,5,21.4,0.07,1,Developing understanding
+STU_1901,57.9,55.6,0.48,6,24.9,-0.0,1,Developing understanding
+STU_1902,65.5,76.7,0.53,5,28.5,0.36,1,Developing understanding
+STU_1903,88.0,94.3,0.94,7,33.6,0.27,2,Ready for advanced practice
+STU_1904,68.4,76.7,0.64,3,18.0,0.34,1,Developing understanding
+STU_1905,65.8,80.4,0.55,8,29.0,0.37,1,Developing understanding
+STU_1906,40.5,34.2,0.39,3,18.2,-0.14,0,Needs foundational revision
+STU_1907,78.4,86.9,0.6,4,18.3,0.04,1,Developing understanding
+STU_1908,76.6,81.8,0.68,8,32.4,0.32,1,Developing understanding
+STU_1909,100.0,100.0,0.95,3,24.9,0.58,2,Ready for advanced practice
+STU_1910,59.5,62.5,0.54,4,25.3,0.17,1,Developing understanding
+STU_1911,68.9,77.2,0.6,3,21.7,0.31,1,Developing understanding
+STU_1912,69.5,90.2,0.78,6,27.2,0.76,2,Ready for advanced practice
+STU_1913,93.4,100.0,0.96,2,25.1,0.44,2,Ready for advanced practice
+STU_1914,63.3,57.9,0.61,5,23.9,-0.09,1,Developing understanding
+STU_1915,70.0,75.6,0.66,3,16.7,0.4,1,Developing understanding
+STU_1916,75.9,100.0,0.73,5,25.7,0.69,2,Ready for advanced practice
+STU_1917,68.4,73.7,0.53,5,28.2,0.29,1,Developing understanding
+STU_1918,57.0,57.6,0.49,4,21.3,-0.09,1,Developing understanding
+STU_1919,68.5,64.6,0.48,4,20.9,0.1,1,Developing understanding
+STU_1920,84.3,87.6,0.76,4,29.0,0.18,2,Ready for advanced practice
+STU_1921,46.5,51.0,0.44,5,18.4,0.2,0,Needs foundational revision
+STU_1922,67.4,66.5,0.53,5,20.0,-0.11,1,Developing understanding
+STU_1923,52.4,45.2,0.62,4,17.5,0.15,1,Developing understanding
+STU_1924,86.5,95.7,0.91,6,32.0,0.34,2,Ready for advanced practice
+STU_1925,37.6,35.2,0.41,4,20.4,0.09,0,Needs foundational revision
+STU_1926,54.9,59.7,0.51,6,30.7,0.14,1,Developing understanding
+STU_1927,71.8,77.1,0.76,2,19.9,0.38,1,Developing understanding
+STU_1928,93.2,99.6,0.74,7,30.1,0.39,2,Ready for advanced practice
+STU_1929,63.8,66.2,0.67,7,30.5,0.14,1,Developing understanding
+STU_1930,55.0,54.6,0.39,3,17.5,0.15,0,Needs foundational revision
+STU_1931,98.9,100.0,0.99,7,29.3,0.58,2,Ready for advanced practice
+STU_1932,38.9,30.6,0.29,7,34.1,-0.14,0,Needs foundational revision
+STU_1933,25.4,30.0,0.34,5,23.2,0.48,0,Needs foundational revision
+STU_1934,72.9,89.1,0.8,3,22.7,0.48,2,Ready for advanced practice
+STU_1935,56.0,51.7,0.4,4,21.7,0.04,0,Needs foundational revision
+STU_1936,46.6,55.7,0.41,6,27.1,0.39,0,Needs foundational revision
+STU_1937,77.8,100.0,0.85,4,24.8,0.81,2,Ready for advanced practice
+STU_1938,69.4,71.3,0.63,2,15.6,0.18,1,Developing understanding
+STU_1939,54.8,59.5,0.61,4,24.1,0.32,1,Developing understanding
+STU_1940,42.0,40.0,0.41,5,23.6,-0.11,0,Needs foundational revision
+STU_1941,80.7,92.3,0.7,5,23.4,0.28,2,Ready for advanced practice
+STU_1942,76.7,79.0,0.63,6,31.9,0.28,1,Developing understanding
+STU_1943,63.2,67.3,0.49,5,24.2,0.19,1,Developing understanding
+STU_1944,98.2,100.0,0.97,2,23.8,0.6,2,Ready for advanced practice
+STU_1945,45.7,49.0,0.38,5,26.3,0.19,0,Needs foundational revision
+STU_1946,37.5,38.5,0.34,3,16.7,0.03,0,Needs foundational revision
+STU_1947,52.5,46.6,0.48,5,24.2,-0.1,0,Needs foundational revision
+STU_1948,64.2,63.5,0.61,3,22.2,0.05,1,Developing understanding
+STU_1949,69.4,69.4,0.74,4,21.7,0.23,1,Developing understanding
+STU_1950,60.7,67.0,0.7,3,21.0,0.24,1,Developing understanding
+STU_1951,71.3,87.5,0.62,5,25.3,0.48,2,Ready for advanced practice
+STU_1952,42.5,34.9,0.48,4,17.9,-0.13,0,Needs foundational revision
+STU_1953,91.0,100.0,0.91,7,40.3,0.52,2,Ready for advanced practice
+STU_1954,63.5,75.3,0.6,4,18.0,0.39,1,Developing understanding
+STU_1955,85.1,100.0,0.91,7,29.5,0.47,2,Ready for advanced practice
+STU_1956,71.2,72.5,0.56,3,23.1,0.29,1,Developing understanding
+STU_1957,73.2,77.6,0.55,6,28.7,0.2,1,Developing understanding
+STU_1958,75.3,87.5,0.79,5,23.9,0.44,1,Developing understanding
+STU_1959,73.1,80.2,0.65,8,34.6,0.3,1,Developing understanding
+STU_1960,76.6,81.3,0.8,5,31.5,0.58,2,Ready for advanced practice
+STU_1961,88.9,95.7,0.93,3,23.5,0.19,2,Ready for advanced practice
+STU_1962,68.5,77.8,0.49,5,31.2,0.13,1,Developing understanding
+STU_1963,77.8,91.5,0.82,9,32.2,0.53,2,Ready for advanced practice
+STU_1964,63.4,67.1,0.56,4,23.8,0.31,1,Developing understanding
+STU_1965,90.9,100.0,0.83,3,26.0,0.74,2,Ready for advanced practice
+STU_1966,52.8,63.1,0.52,6,28.9,0.13,1,Developing understanding
+STU_1967,97.4,100.0,1.0,5,28.9,0.85,2,Ready for advanced practice
+STU_1968,64.3,65.2,0.44,3,16.9,-0.07,1,Developing understanding
+STU_1969,39.2,49.0,0.35,7,28.0,0.33,0,Needs foundational revision
+STU_1970,67.3,76.4,0.67,4,25.5,0.47,1,Developing understanding
+STU_1971,52.7,51.8,0.55,3,20.9,-0.01,0,Needs foundational revision
+STU_1972,80.1,93.8,0.79,9,40.1,0.56,2,Ready for advanced practice
+STU_1973,53.3,56.3,0.37,6,21.4,0.03,1,Developing understanding
+STU_1974,57.0,69.0,0.46,5,22.3,0.24,1,Developing understanding
+STU_1975,31.0,31.2,0.24,3,12.6,-0.17,0,Needs foundational revision
+STU_1976,56.9,55.3,0.61,4,21.1,0.17,1,Developing understanding
+STU_1977,21.4,26.2,0.13,7,27.1,0.16,0,Needs foundational revision
+STU_1978,36.5,35.6,0.24,1,10.8,-0.15,0,Needs foundational revision
+STU_1979,78.7,97.9,0.85,4,33.1,0.67,2,Ready for advanced practice
+STU_1980,79.1,80.7,0.57,4,22.4,0.16,1,Developing understanding
+STU_1981,72.7,100.0,0.81,6,29.9,0.78,2,Ready for advanced practice
+STU_1982,47.6,41.1,0.49,1,13.6,-0.06,0,Needs foundational revision
+STU_1983,64.1,64.7,0.68,6,26.3,0.2,1,Developing understanding
+STU_1984,64.9,78.0,0.53,5,23.7,0.49,1,Developing understanding
+STU_1985,44.1,48.7,0.26,3,19.0,-0.16,0,Needs foundational revision
+STU_1986,92.1,100.0,0.91,5,28.7,0.84,2,Ready for advanced practice
+STU_1987,80.8,95.9,0.83,7,30.1,0.65,2,Ready for advanced practice
+STU_1988,61.0,72.5,0.63,9,32.2,0.29,1,Developing understanding
+STU_1989,65.5,59.4,0.49,4,19.5,-0.24,0,Needs foundational revision
+STU_1990,68.8,74.9,0.7,3,21.1,0.3,1,Developing understanding
+STU_1991,28.2,31.5,0.34,4,22.6,0.04,0,Needs foundational revision
+STU_1992,60.6,72.5,0.6,4,18.2,0.43,1,Developing understanding
+STU_1993,52.7,69.0,0.56,3,18.3,0.49,1,Developing understanding
+STU_1994,47.0,52.1,0.53,2,16.8,-0.0,0,Needs foundational revision
+STU_1995,59.9,71.2,0.58,8,26.4,0.4,1,Developing understanding
+STU_1996,97.4,100.0,0.76,6,26.6,0.54,2,Ready for advanced practice
+STU_1997,76.5,92.2,0.69,9,33.8,0.59,2,Ready for advanced practice
+STU_1998,54.7,59.4,0.37,4,17.1,0.11,0,Needs foundational revision
+STU_1999,75.3,73.3,0.66,5,26.0,-0.09,1,Developing understanding
+STU_2000,90.2,100.0,0.79,6,29.0,0.4,2,Ready for advanced practice
+STU_2001,81.6,88.0,0.61,8,30.7,0.06,2,Ready for advanced practice
+STU_2002,66.1,76.9,0.56,6,27.9,0.19,1,Developing understanding
+STU_2003,53.4,52.9,0.37,2,19.6,0.22,1,Developing understanding
+STU_2004,77.6,90.0,0.8,4,29.5,0.5,2,Ready for advanced practice
+STU_2005,72.1,84.0,0.79,4,18.7,0.59,2,Ready for advanced practice
+STU_2006,81.1,89.4,0.61,8,34.0,0.38,2,Ready for advanced practice
+STU_2007,76.4,82.3,0.83,4,24.4,0.17,1,Developing understanding
+STU_2008,83.9,83.9,0.77,5,27.2,-0.11,2,Ready for advanced practice
+STU_2009,55.4,56.5,0.44,1,11.6,0.06,0,Needs foundational revision
+STU_2010,88.7,87.9,0.68,5,26.0,0.27,2,Ready for advanced practice
+STU_2011,68.6,66.1,0.62,4,22.9,0.06,1,Developing understanding
+STU_2012,100.0,100.0,1.0,5,27.7,0.24,2,Ready for advanced practice
+STU_2013,52.6,42.3,0.54,5,21.3,0.03,0,Needs foundational revision
+STU_2014,96.2,100.0,0.74,3,20.0,0.29,2,Ready for advanced practice
+STU_2015,68.6,78.7,0.5,7,29.1,0.32,1,Developing understanding
+STU_2016,53.3,63.1,0.46,6,27.3,0.18,1,Developing understanding
+STU_2017,56.3,66.8,0.45,5,25.5,0.45,1,Developing understanding
+STU_2018,59.2,47.7,0.46,3,16.5,-0.13,0,Needs foundational revision
+STU_2019,72.6,85.3,0.59,6,28.0,0.44,1,Developing understanding
+STU_2020,74.4,88.8,0.77,2,22.1,0.37,1,Developing understanding
+STU_2021,54.7,69.1,0.63,5,28.5,0.43,1,Developing understanding
+STU_2022,64.6,65.3,0.56,6,26.5,0.14,1,Developing understanding
+STU_2023,100.0,100.0,1.0,1,18.8,0.74,2,Ready for advanced practice
+STU_2024,96.1,100.0,0.82,4,25.4,0.48,2,Ready for advanced practice
+STU_2025,72.9,71.7,0.66,2,14.4,0.08,1,Developing understanding
+STU_2026,65.7,73.2,0.51,4,20.6,0.15,1,Developing understanding
+STU_2027,67.2,68.4,0.65,4,25.1,0.24,1,Developing understanding
+STU_2028,76.0,85.3,0.83,2,21.9,0.51,1,Developing understanding
+STU_2029,46.6,38.2,0.45,3,17.1,-0.16,0,Needs foundational revision
+STU_2030,60.4,59.3,0.51,7,29.2,0.19,1,Developing understanding
+STU_2031,35.0,39.3,0.36,8,26.9,0.15,0,Needs foundational revision
+STU_2032,72.2,81.4,0.54,3,21.1,0.18,1,Developing understanding
+STU_2033,76.6,93.8,0.81,6,29.5,0.72,2,Ready for advanced practice
+STU_2034,56.3,57.8,0.51,4,20.3,0.3,1,Developing understanding
+STU_2035,93.3,100.0,0.83,6,28.9,0.46,2,Ready for advanced practice
+STU_2036,42.9,51.1,0.42,1,12.3,0.06,0,Needs foundational revision
+STU_2037,38.6,39.2,0.39,6,23.3,0.13,0,Needs foundational revision
+STU_2038,69.0,72.5,0.5,3,20.5,0.22,1,Developing understanding
+STU_2039,83.8,86.2,0.82,2,18.6,0.01,2,Ready for advanced practice
+STU_2040,95.3,100.0,0.79,2,24.2,0.33,2,Ready for advanced practice
+STU_2041,56.7,53.6,0.58,5,28.9,-0.04,1,Developing understanding
+STU_2042,84.4,95.7,0.86,2,17.7,0.66,2,Ready for advanced practice
+STU_2043,64.3,74.3,0.68,5,25.8,0.3,1,Developing understanding
+STU_2044,61.9,69.4,0.58,5,22.5,0.17,1,Developing understanding
+STU_2045,80.9,93.6,0.74,3,20.4,0.51,1,Developing understanding
+STU_2046,76.7,83.1,0.59,4,28.1,0.34,1,Developing understanding
+STU_2047,36.6,36.4,0.42,4,19.1,-0.17,0,Needs foundational revision
+STU_2048,91.6,100.0,0.76,8,35.2,0.43,2,Ready for advanced practice
+STU_2049,89.8,96.6,0.82,6,31.4,0.39,2,Ready for advanced practice
+STU_2050,53.7,47.4,0.42,6,22.1,-0.26,1,Developing understanding
+STU_2051,72.1,66.9,0.55,3,16.5,0.01,1,Developing understanding
+STU_2052,73.9,82.0,0.71,1,12.4,0.21,1,Developing understanding
+STU_2053,69.7,71.1,0.5,4,18.3,0.1,1,Developing understanding
+STU_2054,55.1,50.1,0.58,5,15.9,-0.13,0,Needs foundational revision
+STU_2055,52.9,62.4,0.43,8,31.7,0.38,1,Developing understanding
+STU_2056,64.5,67.3,0.44,4,26.4,0.11,1,Developing understanding
+STU_2057,86.1,100.0,0.79,6,29.9,0.44,2,Ready for advanced practice
+STU_2058,74.8,82.9,0.54,4,17.3,0.23,1,Developing understanding
+STU_2059,58.3,57.0,0.46,6,23.6,-0.03,0,Needs foundational revision
+STU_2060,78.9,93.6,0.78,4,23.0,0.47,2,Ready for advanced practice
+STU_2061,15.0,10.0,0.05,4,12.5,-0.35,0,Needs foundational revision
+STU_2062,85.7,91.8,0.88,4,28.1,0.31,2,Ready for advanced practice
+STU_2063,33.7,32.0,0.16,3,16.8,-0.05,0,Needs foundational revision
+STU_2064,58.5,66.5,0.46,2,12.0,0.34,1,Developing understanding
+STU_2065,44.8,55.2,0.48,7,30.4,0.33,1,Developing understanding
+STU_2066,41.7,46.1,0.32,6,28.5,0.23,0,Needs foundational revision
+STU_2067,85.9,91.0,0.66,7,36.1,0.27,2,Ready for advanced practice
+STU_2068,56.6,61.2,0.47,5,31.8,-0.13,1,Developing understanding
+STU_2069,71.2,86.8,0.58,3,16.7,0.47,1,Developing understanding
+STU_2070,64.2,81.2,0.69,6,36.7,0.8,1,Developing understanding
+STU_2071,73.6,90.6,0.61,7,28.8,0.59,2,Ready for advanced practice
+STU_2072,66.4,73.8,0.69,7,29.0,0.28,1,Developing understanding
+STU_2073,41.9,43.0,0.5,8,32.0,-0.02,0,Needs foundational revision
+STU_2074,82.9,87.3,0.73,6,27.1,0.15,1,Developing understanding
+STU_2075,56.1,58.7,0.63,3,21.3,-0.09,1,Developing understanding
+STU_2076,37.0,36.3,0.3,4,14.6,-0.08,0,Needs foundational revision
+STU_2077,57.3,72.4,0.66,5,24.7,0.61,1,Developing understanding
+STU_2078,92.0,100.0,0.71,5,29.9,0.34,2,Ready for advanced practice
+STU_2079,80.3,92.1,0.79,3,21.8,0.43,2,Ready for advanced practice
+STU_2080,58.7,71.2,0.53,6,26.8,0.48,1,Developing understanding
+STU_2081,58.7,62.1,0.5,5,24.9,0.09,1,Developing understanding
+STU_2082,59.2,74.8,0.58,4,25.4,0.64,1,Developing understanding
+STU_2083,100.0,100.0,0.97,5,24.2,0.85,2,Ready for advanced practice
+STU_2084,71.9,74.0,0.5,7,30.3,0.18,1,Developing understanding
+STU_2085,72.7,71.6,0.56,4,20.9,0.07,1,Developing understanding
+STU_2086,83.5,93.3,0.82,3,22.9,0.55,2,Ready for advanced practice
+STU_2087,69.3,70.8,0.68,6,31.3,0.28,1,Developing understanding
+STU_2088,60.3,58.9,0.69,6,24.7,0.08,1,Developing understanding
+STU_2089,61.5,74.0,0.64,6,24.6,0.53,1,Developing understanding
+STU_2090,63.7,77.5,0.71,4,17.8,0.53,1,Developing understanding
+STU_2091,64.3,72.1,0.65,8,31.1,0.35,1,Developing understanding
+STU_2092,78.1,69.8,0.65,4,26.8,0.05,1,Developing understanding
+STU_2093,65.9,69.1,0.48,4,20.4,-0.13,1,Developing understanding
+STU_2094,78.2,92.0,0.8,3,18.0,0.38,2,Ready for advanced practice
+STU_2095,63.5,69.6,0.62,6,26.0,0.17,1,Developing understanding
+STU_2096,66.4,74.4,0.47,4,16.2,0.01,1,Developing understanding
+STU_2097,29.0,27.5,0.22,5,16.8,0.09,0,Needs foundational revision
+STU_2098,81.5,100.0,0.88,5,29.2,0.64,2,Ready for advanced practice
+STU_2099,71.2,80.8,0.65,5,21.8,0.54,1,Developing understanding
+STU_2100,83.0,88.6,0.73,5,29.6,0.19,2,Ready for advanced practice
+STU_2101,15.0,10.0,0.12,6,21.3,-0.23,0,Needs foundational revision
+STU_2102,100.0,100.0,0.82,5,27.6,0.59,2,Ready for advanced practice
+STU_2103,62.5,71.5,0.53,7,28.0,0.3,1,Developing understanding
+STU_2104,84.9,100.0,0.73,5,28.6,0.68,2,Ready for advanced practice
+STU_2105,46.3,49.6,0.29,2,15.8,0.02,0,Needs foundational revision
+STU_2106,76.0,94.5,0.77,2,20.3,0.72,2,Ready for advanced practice
+STU_2107,46.0,48.1,0.39,4,21.4,0.17,0,Needs foundational revision
+STU_2108,53.8,63.3,0.59,7,28.9,0.47,1,Developing understanding
+STU_2109,99.5,100.0,1.0,5,31.1,0.54,2,Ready for advanced practice
+STU_2110,61.6,60.9,0.47,2,14.7,0.08,1,Developing understanding
+STU_2111,68.9,85.3,0.67,6,28.1,0.51,2,Ready for advanced practice
+STU_2112,80.7,100.0,0.72,2,17.9,0.62,2,Ready for advanced practice
+STU_2113,73.9,80.5,0.79,4,23.1,0.53,2,Ready for advanced practice
+STU_2114,67.7,76.5,0.53,6,24.3,0.17,1,Developing understanding
+STU_2115,71.6,94.9,0.7,4,24.9,0.6,2,Ready for advanced practice
+STU_2116,100.0,100.0,0.94,5,32.7,0.13,2,Ready for advanced practice
+STU_2117,64.0,64.6,0.52,6,29.8,-0.07,1,Developing understanding
+STU_2118,68.6,80.2,0.51,6,22.4,0.3,1,Developing understanding
+STU_2119,83.9,93.4,0.81,3,26.1,0.42,2,Ready for advanced practice
+STU_2120,84.9,100.0,0.84,5,26.7,0.57,2,Ready for advanced practice
+STU_2121,86.4,90.7,0.73,5,28.1,0.38,2,Ready for advanced practice
+STU_2122,76.5,89.9,0.74,8,31.1,0.51,2,Ready for advanced practice
+STU_2123,44.4,42.7,0.37,3,17.4,-0.15,0,Needs foundational revision
+STU_2124,94.4,100.0,0.92,2,22.0,0.6,2,Ready for advanced practice
+STU_2125,44.4,53.1,0.31,6,19.3,0.18,0,Needs foundational revision
+STU_2126,70.4,82.9,0.76,4,25.9,0.62,1,Developing understanding
+STU_2127,51.4,61.4,0.4,4,23.9,0.48,1,Developing understanding
+STU_2128,63.8,78.6,0.54,8,31.0,0.29,1,Developing understanding
+STU_2129,70.9,76.5,0.51,5,27.7,0.25,1,Developing understanding
+STU_2130,70.8,68.8,0.53,6,25.8,-0.11,1,Developing understanding
+STU_2131,72.6,78.1,0.66,6,30.5,0.23,1,Developing understanding
+STU_2132,94.0,98.0,0.79,3,15.3,0.29,2,Ready for advanced practice
+STU_2133,73.2,95.9,0.77,5,33.9,0.65,2,Ready for advanced practice
+STU_2134,60.6,59.3,0.41,8,34.4,0.03,1,Developing understanding
+STU_2135,82.4,89.9,0.71,4,22.7,0.48,2,Ready for advanced practice
+STU_2136,86.4,93.6,0.74,7,25.4,0.36,2,Ready for advanced practice
+STU_2137,42.9,34.1,0.25,9,31.3,-0.03,0,Needs foundational revision
+STU_2138,75.8,80.1,0.58,7,25.1,0.28,1,Developing understanding
+STU_2139,77.6,79.5,0.68,4,24.5,0.23,1,Developing understanding
+STU_2140,59.6,65.0,0.54,5,25.2,0.11,1,Developing understanding
+STU_2141,89.8,87.5,0.79,3,19.1,0.02,2,Ready for advanced practice
+STU_2142,62.3,70.3,0.58,4,25.3,0.18,1,Developing understanding
+STU_2143,67.3,78.3,0.64,6,30.1,0.22,1,Developing understanding
+STU_2144,61.9,65.0,0.42,5,25.4,-0.0,1,Developing understanding
+STU_2145,65.3,71.4,0.58,3,19.5,0.28,1,Developing understanding
+STU_2146,45.3,53.4,0.55,5,19.9,0.3,1,Developing understanding
+STU_2147,39.1,36.3,0.36,7,29.8,0.13,0,Needs foundational revision
+STU_2148,93.7,100.0,0.91,7,32.5,0.74,2,Ready for advanced practice
+STU_2149,49.8,51.8,0.4,9,28.1,0.22,1,Developing understanding
+STU_2150,47.2,51.6,0.51,1,17.7,0.07,0,Needs foundational revision
+STU_2151,26.2,35.6,0.32,6,30.1,-0.04,0,Needs foundational revision
+STU_2152,53.5,60.0,0.49,3,18.3,0.18,1,Developing understanding
+STU_2153,41.2,41.9,0.52,6,32.7,0.35,0,Needs foundational revision
+STU_2154,94.6,100.0,0.75,2,19.2,0.61,2,Ready for advanced practice
+STU_2155,83.2,95.0,0.61,3,18.7,0.45,1,Developing understanding
+STU_2156,52.6,54.7,0.56,4,19.8,0.07,1,Developing understanding
+STU_2157,100.0,100.0,1.0,5,34.4,0.61,2,Ready for advanced practice
+STU_2158,82.7,92.3,0.64,2,15.3,0.35,1,Developing understanding
+STU_2159,59.2,62.7,0.47,4,22.8,0.34,1,Developing understanding
+STU_2160,20.0,15.1,0.05,6,18.9,-0.05,0,Needs foundational revision
+STU_2161,100.0,100.0,0.85,4,23.8,0.42,2,Ready for advanced practice
+STU_2162,40.0,33.3,0.45,6,28.4,-0.1,0,Needs foundational revision
+STU_2163,35.4,33.7,0.33,8,27.8,-0.15,0,Needs foundational revision
+STU_2164,83.4,87.3,0.71,4,22.3,0.37,2,Ready for advanced practice
+STU_2165,100.0,100.0,0.87,4,28.8,0.56,2,Ready for advanced practice
+STU_2166,89.9,90.6,0.67,7,35.3,0.15,2,Ready for advanced practice
+STU_2167,75.2,81.8,0.62,6,29.4,0.3,1,Developing understanding
+STU_2168,75.7,88.5,0.73,4,21.8,0.46,1,Developing understanding
+STU_2169,80.4,83.8,0.87,4,23.9,0.23,2,Ready for advanced practice
+STU_2170,78.7,96.2,0.82,6,30.1,0.68,2,Ready for advanced practice
+STU_2171,70.1,74.0,0.49,4,21.9,0.07,1,Developing understanding
+STU_2172,66.9,84.2,0.73,2,15.8,0.54,1,Developing understanding
+STU_2173,63.9,72.7,0.67,6,30.2,0.23,1,Developing understanding
+STU_2174,51.4,52.0,0.55,8,31.9,0.05,1,Developing understanding
+STU_2175,59.9,60.4,0.53,4,16.2,0.04,1,Developing understanding
+STU_2176,34.5,40.9,0.28,2,10.6,-0.12,0,Needs foundational revision
+STU_2177,63.2,69.1,0.52,5,22.2,0.08,1,Developing understanding
+STU_2178,47.2,41.9,0.3,5,20.9,-0.07,0,Needs foundational revision
+STU_2179,45.1,50.0,0.33,9,37.1,0.18,0,Needs foundational revision
+STU_2180,68.2,70.6,0.54,4,22.2,0.15,1,Developing understanding
+STU_2181,90.1,99.6,0.81,5,24.7,0.4,2,Ready for advanced practice
+STU_2182,81.5,79.0,0.82,5,27.9,0.1,1,Developing understanding
+STU_2183,36.7,38.6,0.33,9,30.4,0.14,0,Needs foundational revision
+STU_2184,47.2,53.2,0.3,4,19.5,-0.05,0,Needs foundational revision
+STU_2185,81.9,100.0,0.88,3,24.8,0.79,2,Ready for advanced practice
+STU_2186,47.3,38.1,0.56,4,25.4,0.03,0,Needs foundational revision
+STU_2187,61.0,64.2,0.64,6,27.6,-0.07,1,Developing understanding
+STU_2188,74.9,94.7,0.83,6,34.9,0.62,2,Ready for advanced practice
+STU_2189,47.6,51.9,0.45,7,30.6,0.23,1,Developing understanding
+STU_2190,66.9,74.1,0.75,6,26.8,0.17,1,Developing understanding
+STU_2191,41.0,29.7,0.25,6,29.6,-0.31,0,Needs foundational revision
+STU_2192,54.2,63.8,0.45,7,28.9,0.46,1,Developing understanding
+STU_2193,70.8,87.0,0.56,1,11.7,0.41,1,Developing understanding
+STU_2194,36.3,21.4,0.24,4,22.8,-0.55,0,Needs foundational revision
+STU_2195,72.9,68.1,0.56,2,22.9,0.11,1,Developing understanding
+STU_2196,64.6,80.2,0.62,7,29.9,0.63,1,Developing understanding
+STU_2197,74.9,80.5,0.77,2,17.7,0.24,1,Developing understanding
+STU_2198,69.0,79.8,0.65,8,32.3,0.24,1,Developing understanding
+STU_2199,89.6,96.6,0.71,4,25.6,0.28,2,Ready for advanced practice
